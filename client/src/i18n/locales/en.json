@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "title": "Thanh Hoa — Travel & Culture of the Thanh Land",
+    "description": "Discover the nature, cuisine and culture of Thanh Hoa: Pu Luong, Sam Son, the Ho Dynasty Citadel, Ben En National Park and many more destinations."
+  },
+  "brand": {
+    "name": "Thanh Hóa",
+    "tagline": "Travel & Culture"
+  },
+  "nav": {
+    "home": "Home",
+    "tourism": "Travel",
+    "cuisine": "Cuisine",
+    "culture": "Culture",
+    "map": "Map"
+  },
+  "header": {
+    "language": "Language",
+    "switchToLight": "Switch to light mode",
+    "switchToDark": "Switch to dark mode",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "mainNav": "Main navigation",
+    "skipToContent": "Skip to main content"
+  },
+  "footer": {
+    "about": "A guide to the nature, cuisine and culture of Thanh Hoa — a land of rich heritage in Vietnam's North Central Coast.",
+    "explore": "Explore",
+    "contact": "Contact",
+    "addressLabel": "Address",
+    "address": "Thanh Hoa City, Thanh Hoa Province, Vietnam",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "follow": "Follow us",
+    "rights": "© {{year}} Thanh Hoa Tourism. All rights reserved.",
+    "imageCredit": "Some images are from Wikimedia Commons; copyright belongs to their authors under the respective licences."
+  },
+  "common": {
+    "loading": "Loading…",
+    "retry": "Try again"
+  },
+  "states": {
+    "errorTitle": "Could not load data",
+    "errorText": "Something went wrong while contacting the server. Please check your connection and try again.",
+    "emptyTitle": "No places yet",
+    "emptyText": "Content is being updated. Please check back soon."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Thanh Land · Vietnam",
+      "title": "Discover Thanh Hoa",
+      "subtitle": "From the mountains of Pu Luong to the beaches of Sam Son, from the Ho Dynasty Citadel to the rich flavours of local cuisine.",
+      "ctaExplore": "Explore destinations",
+      "ctaMap": "View the map",
+      "ctaRandom": "Surprise me"
+    },
+    "featured": {
+      "eyebrow": "Highlights",
+      "title": "Destinations not to be missed",
+      "subtitle": "Signature places, flavours and heritage to start your journey."
+    },
+    "topics": {
+      "eyebrow": "Themes",
+      "title": "Explore by interest",
+      "count_other": "{{count}} places",
+      "count_one": "{{count}} place"
+    },
+    "why": {
+      "eyebrow": "Why Thanh Hoa",
+      "title": "Mountains, sea, heritage and flavour in one journey",
+      "nature": {
+        "title": "Varied nature",
+        "text": "From the western mountains with rice terraces and lakes to the long eastern coastline, every season brings a different Thanh Hoa."
+      },
+      "heritage": {
+        "title": "Heritage and history",
+        "text": "The Ho Dynasty Citadel, Lam Kinh, Đông Sơn culture and Hàm Rồng tell important chapters of the nation's story."
+      },
+      "food": {
+        "title": "Rich local flavours",
+        "text": "Nem chua, Tứ Trụ gai leaf cake and sea-fresh seafood define the taste of Thanh Hoa."
+      }
+    },
+    "cta": {
+      "title": "Ready to plan your trip?",
+      "text": "See the destinations on the map, or ask KAT, our virtual assistant, for itinerary ideas.",
+      "map": "Open the map",
+      "chat": "Ask KAT"
+    },
+    "recent": {
+      "eyebrow": "Continue exploring",
+      "title": "Recently viewed",
+      "clear": "Clear history"
+    }
+  },
+  "categories": {
+    "tourism": {
+      "eyebrow": "Destinations",
+      "title": "Travel",
+      "subtitle": "From the mountains of Pu Luong and the beaches of Sam Son to Ben En National Park — destinations not to be missed."
+    },
+    "cuisine": {
+      "eyebrow": "Flavours",
+      "title": "Cuisine",
+      "subtitle": "Fermented pork rolls, Tu Tru gai leaf cakes and the specialties that give Thanh Hoa its own flavour."
+    },
+    "culture": {
+      "eyebrow": "Heritage",
+      "title": "Culture",
+      "subtitle": "The Ho Dynasty Citadel, Dong Son culture, Lam Kinh — the historical depth and identity of Thanh Hoa."
+    }
+  },
+  "place": {
+    "eyebrow": "Place",
+    "viewDetails": "View details",
+    "breadcrumb": "Breadcrumb",
+    "overview": "Overview",
+    "address": "Address",
+    "category": "Category",
+    "about": "About",
+    "highlights": "Highlights",
+    "gallery": "Photo gallery",
+    "zoomImage": "Enlarge photo: {{name}}",
+    "viewOnMap": "View on map",
+    "directions": "Get directions",
+    "related": "You may also like",
+    "backHome": "Back to home",
+    "addFavorite": "Save",
+    "removeFavorite": "Remove favorite",
+    "saved": "Saved",
+    "markVisited": "Mark as visited",
+    "visited": "Visited",
+    "audioGuide": "Audio guide",
+    "stopAudio": "Stop audio",
+    "share": "Share",
+    "linkCopied": "Link copied",
+    "askKat": "Ask KAT about this place",
+    "askKatPrompt": "Please suggest an itinerary, best time to visit, and travel tips for {{name}}.",
+    "nearby": "Nearby places"
+  },
+  "map": {
+    "eyebrow": "Map",
+    "title": "Thanh Hoa Map",
+    "subtitle": "Locate the province's most notable destinations on the map. Select a pin for a photo and quick details.",
+    "filterAll": "All",
+    "viewDetails": "View details",
+    "ariaMap": "Map of places in Thanh Hoa",
+    "approx": "Map positions are approximate."
+  },
+  "kat": {
+    "name": "KAT",
+    "subtitle": "Thanh Hoa travel assistant",
+    "open": "Open chat with KAT",
+    "close": "Close chat",
+    "reset": "New conversation",
+    "placeholder": "Ask KAT about Thanh Hoa travel…",
+    "send": "Send",
+    "thinking": "KAT is replying…",
+    "welcome": "Hello, I'm KAT — your virtual assistant for Thanh Hoa travel. What would you like to explore in Thanh Hoa?",
+    "suggestionsLabel": "Suggested questions",
+    "suggestions": [
+      "When is the best time to visit Pu Luong?",
+      "Suggest a 2-day itinerary in Sam Son",
+      "Which specialties should I buy as gifts?"
+    ],
+    "disclaimer": "KAT is an AI and can make mistakes. Please verify ticket prices and opening hours with the operator.",
+    "errors": {
+      "not_configured": "The chatbot is not configured yet. Please contact the website administrator.",
+      "misconfigured": "The chatbot has a configuration problem. Please try again later.",
+      "rate_limited": "You are sending messages too quickly or the chatbot is busy. Please try again in a few minutes.",
+      "unavailable": "KAT is temporarily unavailable. Please try again later.",
+      "blocked": "KAT cannot answer that. Please try rephrasing your question.",
+      "empty_reply": "KAT could not produce an answer. Please try again.",
+      "empty_message": "Please type a question first.",
+      "network": "Could not reach the server. Please check your connection and try again.",
+      "unknown": "Something went wrong. Please try again."
+    }
+  },
+  "notFound": {
+    "title": "Page not found",
+    "subtitle": "The page you are looking for does not exist or has been moved.",
+    "cta": "Back to home"
+  },
+  "admin": {
+    "title": "Admin area",
+    "subtitle": "For administrators only."
+  },
+  "weather": {
+    "defaultLocation": "Thanh Hoa City",
+    "liveLabel": "Live weather",
+    "loading": "Loading weather…",
+    "feelsLike": "Feels like {{temp}}°C",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "refresh": "Refresh weather",
+    "codes": {
+      "clear": "Clear sky",
+      "partlyCloudy": "Partly cloudy",
+      "cloudy": "Cloudy",
+      "fog": "Foggy",
+      "drizzle": "Drizzle",
+      "rain": "Rainy",
+      "storm": "Thunderstorm"
+    }
+  },
+  "saved": {
+    "title": "My Trip",
+    "close": "Close",
+    "progressLabel": "Thanh Hoa exploration progress",
+    "progressCount": "{{count}} / {{total}} places",
+    "tabFavorites": "Saved",
+    "tabVisited": "Visited",
+    "emptyFavorites": "No saved places yet. Tap the heart icon on any card to bookmark it.",
+    "emptyVisited": "You haven't checked in at any places yet.",
+    "remove": "Remove from list",
+    "copyTrip": "Copy trip list",
+    "copied": "Trip list copied!",
+    "copyHeader": "My Thanh Hoa travel wishlist:"
+  },
+  "filter": {
+    "searchPlaceholder": "Search by name, dish, district…",
+    "clearSearch": "Clear search",
+    "onlyFavorites": "Saved only",
+    "nearest": "Nearest to me",
+    "locating": "Locating…",
+    "locationDenied": "Could not access your location. Please allow location permission in your browser.",
+    "noMatches": "No places match your current filter.",
+    "reset": "Reset filters"
+  }
+}

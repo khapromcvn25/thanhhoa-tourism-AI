@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "title": "타인호아 — 베트남 타인 지역의 여행과 문화",
+    "description": "푸루옹, 삼선 해변, 호 왕조 성채, 벤엔 국립공원 등 타인호아의 자연, 미식, 문화를 만나보세요."
+  },
+  "brand": {
+    "name": "Thanh Hóa",
+    "tagline": "여행 & 문화"
+  },
+  "nav": {
+    "home": "홈",
+    "tourism": "여행",
+    "cuisine": "미식",
+    "culture": "문화",
+    "map": "지도"
+  },
+  "header": {
+    "language": "언어",
+    "switchToLight": "라이트 모드로 전환",
+    "switchToDark": "다크 모드로 전환",
+    "openMenu": "메뉴 열기",
+    "closeMenu": "메뉴 닫기",
+    "mainNav": "메인 내비게이션",
+    "skipToContent": "본문으로 건너뛰기"
+  },
+  "footer": {
+    "about": "베트남 북중부의 깊은 역사와 자연, 미식을 품은 타인호아 여행 가이드입니다.",
+    "explore": "둘러보기",
+    "contact": "문의",
+    "addressLabel": "주소",
+    "address": "베트남 타인호아성 타인호아시",
+    "emailLabel": "이메일",
+    "phoneLabel": "전화번호",
+    "follow": "팔로우",
+    "rights": "© {{year}} Thanh Hoa Tourism. All rights reserved.",
+    "imageCredit": "일부 이미지는 Wikimedia Commons에서 제공되며 각 라이선스에 따라 원저작자에게 저작권이 있습니다."
+  },
+  "common": {
+    "loading": "불러오는 중…",
+    "retry": "다시 시도"
+  },
+  "states": {
+    "errorTitle": "데이터를 불러올 수 없습니다",
+    "errorText": "서버에 연결하는 중 문제가 발생했습니다. 네트워크 연결을 확인하고 다시 시도해 주세요.",
+    "emptyTitle": "등록된 장소가 없습니다",
+    "emptyText": "콘텐츠를 준비 중입니다. 잠시 후 다시 방문해 주세요."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "타인호아 · 베트남",
+      "title": "타인호아를 만나다",
+      "subtitle": "푸루옹의 계단식 논에서 삼선 해변까지, 유네스코 세계유산 호 왕조 성채와 깊은 향토의 맛을 한눈에.",
+      "ctaExplore": "명소 둘러보기",
+      "ctaMap": "지도 보기",
+      "ctaRandom": "오늘 어디 갈까?"
+    },
+    "featured": {
+      "eyebrow": "추천 명소",
+      "title": "놓치지 말아야 할 곳",
+      "subtitle": "타인호아 여행을 시작하기 좋은 대표적인 자연, 미식, 역사 유적지입니다."
+    },
+    "topics": {
+      "eyebrow": "테마별 탐색",
+      "title": "취향대로 둘러보기",
+      "count_other": "{{count}}개 장소",
+      "count_one": "{{count}}개 장소"
+    },
+    "recent": {
+      "eyebrow": "계속 둘러보기",
+      "title": "최근 본 장소",
+      "clear": "기록 지우기"
+    },
+    "why": {
+      "eyebrow": "타인호아의 매력",
+      "title": "산과 바다, 유산과 미식을 한 번의 여정에",
+      "nature": {
+        "title": "다채로운 자연",
+        "text": "서부의 계단식 논과 호수, 동부의 긴 해안선까지 계절마다 새로운 풍경이 펼쳐집니다."
+      },
+      "heritage": {
+        "title": "역사와 유산",
+        "text": "호 왕조 성채, 람킨 유적, 동선 문화, 함롱 다리가 베트남 역사의 중요한 순간을 전합니다."
+      },
+      "food": {
+        "title": "깊은 현지의 맛",
+        "text": "넴쭈어, 뜨쭈 바인가이, 신선한 해산물이 타인호아만의 미식을 완성합니다."
+      }
+    },
+    "cta": {
+      "title": "여행을 계획해 볼까요?",
+      "text": "지도에서 명소를 확인하거나 AI 어시스턴트 KAT에게 맞춤 일정을 물어보세요.",
+      "map": "지도 열기",
+      "chat": "KAT에게 묻기"
+    }
+  },
+  "categories": {
+    "tourism": {
+      "eyebrow": "명소",
+      "title": "여행",
+      "subtitle": "푸루옹 자연보호구역, 삼선 해변, 벤엔 국립공원 등 꼭 가봐야 할 명소."
+    },
+    "cuisine": {
+      "eyebrow": "로컬 푸드",
+      "title": "미식",
+      "subtitle": "넴쭈어, 바인가이, 싱싱한 해산물 등 타인호아의 대표 특산물."
+    },
+    "culture": {
+      "eyebrow": "역사 유산",
+      "title": "문화",
+      "subtitle": "호 왕조 성채, 동선 문화, 람킨 유적 등 타인호아의 깊은 역사와 정체성."
+    }
+  },
+  "place": {
+    "eyebrow": "장소",
+    "viewDetails": "자세히 보기",
+    "breadcrumb": "현재 위치",
+    "overview": "기본 정보",
+    "address": "주소",
+    "category": "카테고리",
+    "about": "소개",
+    "highlights": "주요 포인트",
+    "gallery": "포토 갤러리",
+    "zoomImage": "사진 확대: {{name}}",
+    "viewOnMap": "지도에서 보기",
+    "directions": "길찾기",
+    "related": "함께 보면 좋은 곳",
+    "backHome": "홈으로 돌아가기",
+    "addFavorite": "저장하기",
+    "removeFavorite": "저장 취소",
+    "saved": "저장됨",
+    "markVisited": "방문 체크",
+    "visited": "방문 완료",
+    "audioGuide": "음성 안내 듣기",
+    "stopAudio": "읽기 중지",
+    "share": "공유",
+    "linkCopied": "링크가 복사되었습니다",
+    "askKat": "KAT에게 이 장소 묻기",
+    "askKatPrompt": "{{name}} 여행 일정, 방문하기 좋은 시기, 여행 팁을 추천해 주세요.",
+    "nearby": "주변 명소"
+  },
+  "map": {
+    "eyebrow": "지도",
+    "title": "타인호아 여행 지도",
+    "subtitle": "타인호아성의 주요 명소를 지도에서 한눈에 확인하고 핀을 눌러 상세 정보를 보세요.",
+    "filterAll": "전체",
+    "viewDetails": "자세히 보기",
+    "ariaMap": "타인호아 명소 지도",
+    "approx": "지도상 위치는 참고용입니다."
+  },
+  "kat": {
+    "name": "KAT",
+    "subtitle": "타인호아 여행 어시스턴트",
+    "open": "KAT 채팅 열기",
+    "close": "채팅 닫기",
+    "reset": "새 대화",
+    "placeholder": "타인호아 여행에 대해 물어보세요…",
+    "send": "보내기",
+    "thinking": "KAT가 답변 중…",
+    "welcome": "안녕하세요! 타인호아 여행 AI 가이드 KAT입니다. 타인호아에서 어떤 곳을 찾고 계신가요?",
+    "suggestionsLabel": "추천 질문",
+    "suggestions": [
+      "푸루옹은 어느 계절에 가는 게 좋을까요?",
+      "삼선 1박 2일 여행 코스 추천해 주세요",
+      "선물로 사기 좋은 특산물은 무엇인가요?"
+    ],
+    "disclaimer": "KAT는 AI로 부정확한 정보가 포함될 수 있습니다. 입장료와 운영 시간은 현장에서 확인해 주세요.",
+    "errors": {
+      "not_configured": "챗봇이 아직 설정되지 않았습니다. 관리자에게 문의해 주세요.",
+      "misconfigured": "챗봇 설정에 문제가 발생했습니다. 잠시 후 다시 시도해 주세요.",
+      "rate_limited": "요청이 너무 빠르거나 사용량이 많습니다. 잠시 후 다시 시도해 주세요.",
+      "unavailable": "KAT가 일시적으로 응답하지 않습니다. 나중에 다시 시도해 주세요.",
+      "blocked": "이 내용에는 답변할 수 없습니다. 다른 표현으로 질문해 주세요.",
+      "empty_reply": "답변을 생성하지 못했습니다. 다시 시도해 주세요.",
+      "empty_message": "질문을 먼저 입력해 주세요.",
+      "network": "서버에 연결할 수 없습니다. 네트워크 상태를 확인해 주세요.",
+      "unknown": "오류가 발생했습니다. 다시 시도해 주세요."
+    }
+  },
+  "notFound": {
+    "title": "페이지를 찾을 수 없습니다",
+    "subtitle": "요청하신 페이지가 존재하지 않거나 이동되었습니다.",
+    "cta": "홈으로 돌아가기"
+  },
+  "admin": {
+    "title": "관리자 영역",
+    "subtitle": "관리자 전용 페이지입니다."
+  },
+  "weather": {
+    "defaultLocation": "타인호아시",
+    "liveLabel": "실시간 날씨",
+    "loading": "날씨 불러오는 중…",
+    "feelsLike": "체감 {{temp}}°C",
+    "humidity": "습도",
+    "wind": "바람",
+    "refresh": "날씨 새로고침",
+    "codes": {
+      "clear": "맑음",
+      "partlyCloudy": "구름 조금",
+      "cloudy": "흐림",
+      "fog": "안개",
+      "drizzle": "이슬비",
+      "rain": "비",
+      "storm": "뇌우"
+    }
+  },
+  "saved": {
+    "title": "나의 여행",
+    "close": "닫기",
+    "progressLabel": "타인호아 탐험 진행률",
+    "progressCount": "{{count}} / {{total}} 장소",
+    "tabFavorites": "저장됨",
+    "tabVisited": "방문 완료",
+    "emptyFavorites": "저장한 장소가 없습니다. 카드의 하트 아이콘을 눌러 저장해 보세요.",
+    "emptyVisited": "아직 방문 체크한 장소가 없습니다.",
+    "remove": "목록에서 제거",
+    "copyTrip": "여행 목록 복사",
+    "copied": "목록이 복사되었습니다!",
+    "copyHeader": "나의 타인호아 여행 목록:"
+  },
+  "filter": {
+    "searchPlaceholder": "장소명, 음식, 지역 검색…",
+    "clearSearch": "검색어 지우기",
+    "onlyFavorites": "저장된 장소만",
+    "nearest": "가까운 순",
+    "locating": "위치 확인 중…",
+    "locationDenied": "현재 위치를 가져올 수 없습니다. 브라우저의 위치 권한을 허용해 주세요.",
+    "noMatches": "현재 필터와 일치하는 장소가 없습니다.",
+    "reset": "필터 초기화"
+  }
+}

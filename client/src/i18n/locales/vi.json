@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "title": "Thanh Hóa — Du lịch & Văn hóa xứ Thanh",
+    "description": "Khám phá thiên nhiên, ẩm thực và văn hóa Thanh Hóa: Pù Luông, Sầm Sơn, Thành Nhà Hồ, Vườn quốc gia Bến En và nhiều điểm đến hấp dẫn khác."
+  },
+  "brand": {
+    "name": "Thanh Hóa",
+    "tagline": "Du lịch & Văn hóa"
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "tourism": "Du lịch",
+    "cuisine": "Ẩm thực",
+    "culture": "Văn hóa",
+    "map": "Bản đồ"
+  },
+  "header": {
+    "language": "Ngôn ngữ",
+    "switchToLight": "Chuyển sang giao diện sáng",
+    "switchToDark": "Chuyển sang giao diện tối",
+    "openMenu": "Mở menu",
+    "closeMenu": "Đóng menu",
+    "mainNav": "Điều hướng chính",
+    "skipToContent": "Bỏ qua, đến nội dung chính"
+  },
+  "footer": {
+    "about": "Cổng thông tin giới thiệu thiên nhiên, ẩm thực và văn hóa Thanh Hóa — vùng đất địa linh nhân kiệt của Bắc Trung Bộ.",
+    "explore": "Khám phá",
+    "contact": "Liên hệ",
+    "addressLabel": "Địa chỉ",
+    "address": "Thành phố Thanh Hóa, tỉnh Thanh Hóa, Việt Nam",
+    "emailLabel": "Email",
+    "phoneLabel": "Điện thoại",
+    "follow": "Theo dõi chúng tôi",
+    "rights": "© {{year}} Thanh Hóa Tourism. Bảo lưu mọi quyền.",
+    "imageCredit": "Một số hình ảnh lấy từ Wikimedia Commons; bản quyền thuộc về các tác giả theo giấy phép tương ứng."
+  },
+  "common": {
+    "loading": "Đang tải…",
+    "retry": "Thử lại"
+  },
+  "states": {
+    "errorTitle": "Không tải được dữ liệu",
+    "errorText": "Đã có lỗi khi kết nối tới máy chủ. Vui lòng kiểm tra kết nối và thử lại.",
+    "emptyTitle": "Chưa có địa điểm nào",
+    "emptyText": "Nội dung đang được cập nhật, mời bạn quay lại sau."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Xứ Thanh · Việt Nam",
+      "title": "Khám phá Thanh Hóa",
+      "subtitle": "Từ đại ngàn Pù Luông đến biển Sầm Sơn, từ di sản Thành Nhà Hồ đến những món ngon đậm vị xứ Thanh.",
+      "ctaExplore": "Khám phá điểm đến",
+      "ctaMap": "Xem bản đồ",
+      "ctaRandom": "Hôm nay đi đâu?"
+    },
+    "featured": {
+      "eyebrow": "Nổi bật",
+      "title": "Điểm đến không thể bỏ lỡ",
+      "subtitle": "Những địa danh, hương vị và di sản tiêu biểu để bắt đầu hành trình của bạn."
+    },
+    "topics": {
+      "eyebrow": "Chủ đề",
+      "title": "Khám phá theo sở thích",
+      "count_other": "{{count}} địa điểm",
+      "count_one": "{{count}} địa điểm"
+    },
+    "why": {
+      "eyebrow": "Vì sao chọn Thanh Hóa",
+      "title": "Núi, biển, di sản và hương vị trong một hành trình",
+      "nature": {
+        "title": "Thiên nhiên đa dạng",
+        "text": "Từ rừng núi phía Tây với ruộng bậc thang và hồ nước đến bờ biển dài phía Đông, mỗi mùa đều có một Thanh Hóa để khám phá."
+      },
+      "heritage": {
+        "title": "Di sản và lịch sử",
+        "text": "Thành Nhà Hồ, Lam Kinh, văn hóa Đông Sơn và Hàm Rồng kể lại những chặng đường quan trọng của dân tộc."
+      },
+      "food": {
+        "title": "Ẩm thực đậm vị",
+        "text": "Nem chua, bánh gai Tứ Trụ và hải sản biển là những hương vị làm nên bản sắc ẩm thực xứ Thanh."
+      }
+    },
+    "cta": {
+      "title": "Sẵn sàng lên kế hoạch?",
+      "text": "Xem các điểm đến trên bản đồ hoặc hỏi KAT — trợ lý ảo của chúng tôi — để có gợi ý lịch trình phù hợp.",
+      "map": "Mở bản đồ",
+      "chat": "Hỏi KAT"
+    },
+    "recent": {
+      "eyebrow": "Tiếp tục hành trình",
+      "title": "Địa điểm bạn vừa xem",
+      "clear": "Xóa lịch sử"
+    }
+  },
+  "categories": {
+    "tourism": {
+      "eyebrow": "Điểm đến",
+      "title": "Du lịch",
+      "subtitle": "Từ đại ngàn Pù Luông, biển Sầm Sơn đến Vườn quốc gia Bến En — những điểm đến không thể bỏ lỡ."
+    },
+    "cuisine": {
+      "eyebrow": "Hương vị",
+      "title": "Ẩm thực",
+      "subtitle": "Nem chua, bánh gai Tứ Trụ và những đặc sản làm nên hương vị riêng của xứ Thanh."
+    },
+    "culture": {
+      "eyebrow": "Di sản",
+      "title": "Văn hóa",
+      "subtitle": "Thành Nhà Hồ, văn hóa Đông Sơn, Lam Kinh — chiều sâu lịch sử và bản sắc của xứ Thanh."
+    }
+  },
+  "place": {
+    "eyebrow": "Địa điểm",
+    "viewDetails": "Xem chi tiết",
+    "breadcrumb": "Đường dẫn",
+    "overview": "Thông tin tổng quan",
+    "address": "Địa chỉ",
+    "category": "Danh mục",
+    "about": "Giới thiệu",
+    "highlights": "Các nét nổi bật",
+    "gallery": "Thư viện ảnh",
+    "zoomImage": "Phóng to ảnh: {{name}}",
+    "viewOnMap": "Xem trên bản đồ",
+    "directions": "Chỉ đường",
+    "related": "Có thể bạn cũng thích",
+    "backHome": "Quay về trang chủ",
+    "addFavorite": "Lưu yêu thích",
+    "removeFavorite": "Bỏ yêu thích",
+    "saved": "Đã lưu",
+    "markVisited": "Đánh dấu đã đi",
+    "visited": "Đã ghé thăm",
+    "audioGuide": "Nghe thuyết minh",
+    "stopAudio": "Dừng đọc",
+    "share": "Chia sẻ",
+    "linkCopied": "Đã sao chép link",
+    "askKat": "Hỏi KAT về nơi này",
+    "askKatPrompt": "Hãy gợi ý lịch trình, thời điểm đẹp nhất và kinh nghiệm tham quan {{name}} giúp tôi nhé.",
+    "nearby": "Địa điểm lân cận"
+  },
+  "map": {
+    "eyebrow": "Bản đồ",
+    "title": "Bản đồ Thanh Hóa",
+    "subtitle": "Định vị các điểm đến nổi bật trên bản đồ Thanh Hóa. Chọn một ghim để xem ảnh và thông tin nhanh.",
+    "filterAll": "Tất cả",
+    "viewDetails": "Xem chi tiết",
+    "ariaMap": "Bản đồ các địa điểm ở Thanh Hóa",
+    "approx": "Vị trí trên bản đồ mang tính tham khảo."
+  },
+  "kat": {
+    "name": "KAT",
+    "subtitle": "Trợ lý du lịch Thanh Hóa",
+    "open": "Mở trò chuyện với KAT",
+    "close": "Đóng trò chuyện",
+    "reset": "Cuộc trò chuyện mới",
+    "placeholder": "Hỏi KAT về du lịch Thanh Hóa…",
+    "send": "Gửi",
+    "thinking": "KAT đang trả lời…",
+    "welcome": "Xin chào, mình là KAT — trợ lý ảo về du lịch Thanh Hóa. Bạn muốn khám phá điều gì ở xứ Thanh?",
+    "suggestionsLabel": "Gợi ý câu hỏi",
+    "suggestions": [
+      "Pù Luông đẹp nhất vào mùa nào?",
+      "Gợi ý lịch trình 2 ngày ở Sầm Sơn",
+      "Đặc sản nào nên mua làm quà?"
+    ],
+    "disclaimer": "KAT là AI và có thể nhầm lẫn. Hãy kiểm tra lại giá vé, giờ mở cửa với đơn vị quản lý.",
+    "errors": {
+      "not_configured": "Chatbot chưa được cấu hình. Vui lòng liên hệ quản trị viên website.",
+      "misconfigured": "Chatbot đang gặp sự cố cấu hình. Vui lòng thử lại sau.",
+      "rate_limited": "Bạn nhắn hơi nhanh hoặc chatbot đang quá tải. Vui lòng thử lại sau ít phút.",
+      "unavailable": "KAT tạm thời không phản hồi. Vui lòng thử lại sau.",
+      "blocked": "KAT không thể trả lời nội dung này. Bạn hãy thử hỏi theo cách khác nhé.",
+      "empty_reply": "KAT chưa tạo được câu trả lời. Bạn hãy thử lại nhé.",
+      "empty_message": "Bạn hãy nhập câu hỏi trước nhé.",
+      "network": "Không kết nối được tới máy chủ. Vui lòng kiểm tra mạng và thử lại.",
+      "unknown": "Đã có lỗi xảy ra. Vui lòng thử lại."
+    }
+  },
+  "notFound": {
+    "title": "Không tìm thấy trang",
+    "subtitle": "Trang bạn tìm không tồn tại hoặc đã được di chuyển.",
+    "cta": "Về trang chủ"
+  },
+  "admin": {
+    "title": "Khu vực quản trị",
+    "subtitle": "Dành riêng cho quản trị viên."
+  },
+  "weather": {
+    "defaultLocation": "TP. Thanh Hóa",
+    "liveLabel": "Thời tiết thực tế",
+    "loading": "Đang tải thời tiết…",
+    "feelsLike": "Cảm giác {{temp}}°C",
+    "humidity": "Độ ẩm",
+    "wind": "Gió",
+    "refresh": "Cập nhật thời tiết",
+    "codes": {
+      "clear": "Trời quang",
+      "partlyCloudy": "Ít mây",
+      "cloudy": "Nhiều mây",
+      "fog": "Có sương mù",
+      "drizzle": "Mưa phùn",
+      "rain": "Có mưa",
+      "storm": "Có dông"
+    }
+  },
+  "saved": {
+    "title": "Hành trình của tôi",
+    "close": "Đóng",
+    "progressLabel": "Tiến độ khám phá xứ Thanh",
+    "progressCount": "{{count}} / {{total}} địa điểm",
+    "tabFavorites": "Yêu thích",
+    "tabVisited": "Đã đi",
+    "emptyFavorites": "Bạn chưa lưu địa điểm nào. Bấm biểu tượng trái tim trên mỗi thẻ để lưu nhé!",
+    "emptyVisited": "Bạn chưa đánh dấu địa điểm nào đã ghé thăm.",
+    "remove": "Xóa khỏi danh sách",
+    "copyTrip": "Sao chép danh sách gửi Zalo",
+    "copied": "Đã sao chép lịch trình!",
+    "copyHeader": "Danh sách điểm đến Thanh Hóa của tôi:"
+  },
+  "filter": {
+    "searchPlaceholder": "Tìm theo tên, món ăn, huyện…",
+    "clearSearch": "Xóa từ khóa",
+    "onlyFavorites": "Yêu thích",
+    "nearest": "Gần tôi nhất",
+    "locating": "Đang định vị…",
+    "locationDenied": "Không lấy được vị trí hiện tại. Vui lòng cho phép trình duyệt truy cập định vị.",
+    "noMatches": "Không tìm thấy địa điểm nào phù hợp với bộ lọc hiện tại.",
+    "reset": "Đặt lại bộ lọc"
+  }
+}

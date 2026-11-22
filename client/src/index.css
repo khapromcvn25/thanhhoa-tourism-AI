@@ -1,0 +1,210 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ------------------------------------------------------------------ */
+/* Design tokens: giá trị là "R G B" để Tailwind áp dụng được độ trong suốt */
+/* ------------------------------------------------------------------ */
+@layer base {
+  :root {
+    --c-bg: 250 247 241; /* ivory */
+    --c-surface: 255 255 255;
+    --c-surface-2: 243 238 228;
+    --c-fg: 28 36 33;
+    --c-muted: 92 102 97;
+    --c-border: 226 219 205;
+    --c-brand: 14 94 79; /* emerald đậm */
+    --c-brand-fg: 255 255 255;
+    --c-accent: 146 104 30; /* vàng đồng */
+  }
+
+  .dark {
+    --c-bg: 11 17 15;
+    --c-surface: 18 27 24;
+    --c-surface-2: 25 37 33;
+    --c-fg: 240 236 226;
+    --c-muted: 160 171 165;
+    --c-border: 40 55 49;
+    --c-brand: 62 180 150;
+    --c-brand-fg: 8 20 17;
+    --c-accent: 214 176 98;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    color-scheme: light;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  html.dark {
+    color-scheme: dark;
+  }
+
+  body {
+    @apply bg-bg font-sans text-fg antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-display font-semibold tracking-tight;
+  }
+
+  ::selection {
+    background: rgb(var(--c-brand) / 0.25);
+  }
+}
+
+@layer components {
+  .container-page {
+    @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+  }
+
+  .eyebrow {
+    @apply text-xs font-semibold uppercase tracking-[0.22em] text-accent;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-full px-6 py-3 text-sm font-semibold transition duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand focus-visible:ring-offset-2 focus-visible:ring-offset-bg;
+  }
+
+  .btn-primary {
+    @apply bg-brand text-brand-fg shadow-soft hover:brightness-110;
+  }
+
+  .btn-outline {
+    @apply border border-fg/20 text-fg hover:border-brand hover:text-brand;
+  }
+
+  .hero-bg {
+    background:
+      radial-gradient(60% 50% at 85% 0%, rgb(var(--c-accent) / 0.16), transparent 70%),
+      radial-gradient(55% 60% at 0% 100%, rgb(var(--c-brand) / 0.16), transparent 70%);
+  }
+}
+
+/* ------------------------------------------------------------------ */
+/* Bản đồ Leaflet: ghim tùy chỉnh, popup và chế độ tối                */
+/* ------------------------------------------------------------------ */
+.leaflet-container {
+  font-family: inherit;
+  background: rgb(var(--c-surface-2));
+}
+
+.map-pin {
+  display: block;
+  width: 36px;
+  height: 44px;
+  filter: drop-shadow(0 4px 6px rgb(0 0 0 / 0.35));
+  transition: transform 0.2s ease;
+  transform-origin: 50% 100%;
+}
+
+.map-pin svg {
+  display: block;
+}
+
+.map-pin svg path {
+  fill: var(--pin);
+  stroke: #fff;
+  stroke-width: 1.5;
+}
+
+.leaflet-marker-icon:hover .map-pin,
+.leaflet-marker-icon:focus-visible .map-pin {
+  transform: scale(1.12);
+}
+
+.map-pin--tourism {
+  --pin: #0e8a72;
+}
+
+.map-pin--cuisine {
+  --pin: #d9730d;
+}
+
+.map-pin--culture {
+  --pin: #7a4fb5;
+}
+
+.place-popup .leaflet-popup-content-wrapper {
+  padding: 0;
+  overflow: hidden;
+  border-radius: 1rem;
+  background: rgb(var(--c-surface));
+  color: rgb(var(--c-fg));
+  box-shadow: 0 18px 40px -16px rgb(0 0 0 / 0.5);
+}
+
+.place-popup .leaflet-popup-content {
+  margin: 0;
+  width: auto !important;
+}
+
+.place-popup .leaflet-popup-tip {
+  background: rgb(var(--c-surface));
+}
+
+.place-popup a.leaflet-popup-close-button {
+  top: 8px;
+  right: 8px;
+  width: 26px;
+  height: 26px;
+  padding: 0;
+  border-radius: 9999px;
+  background: rgb(0 0 0 / 0.45);
+  color: #fff;
+  font-size: 18px;
+  line-height: 26px;
+  text-align: center;
+}
+
+.place-popup a.place-popup-link {
+  color: rgb(var(--c-brand-fg));
+}
+
+.dark .leaflet-tile-pane {
+  filter: invert(1) hue-rotate(180deg) brightness(0.92) contrast(0.92) saturate(0.85);
+}
+
+.leaflet-control-attribution {
+  font-size: 10px;
+}
+
+/* ------------------------------------------------------------------ */
+/* Tôn trọng "giảm chuyển động": hiện nội dung AOS ngay, không hiệu ứng */
+/* ------------------------------------------------------------------ */
+@media (prefers-reduced-motion: reduce) {
+  [data-aos] {
+    opacity: 1 !important;
+    transform: none !important;
+    transition: none !important;
+  }
+}
+
+/* Chuyển Dark/Light mượt: class này chỉ được gắn tạm thời lúc bấm nút */
+.theme-transition,
+.theme-transition *,
+.theme-transition *::before,
+.theme-transition *::after {
+  transition:
+    background-color 0.35s ease,
+    border-color 0.35s ease,
+    color 0.35s ease,
+    fill 0.35s ease,
+    stroke 0.35s ease !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .theme-transition,
+  .theme-transition *,
+  .theme-transition *::before,
+  .theme-transition *::after {
+    transition: none !important;
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "title": "清化 — 越南清化旅游与文化",
+    "description": "探索清化的自然风光、特色美食与历史文化：蒲良、岑山海滩、胡朝城堡、本恩国家公园等众多精彩目的地。"
+  },
+  "brand": {
+    "name": "Thanh Hóa",
+    "tagline": "旅游与文化"
+  },
+  "nav": {
+    "home": "首页",
+    "tourism": "旅游",
+    "cuisine": "美食",
+    "culture": "文化",
+    "map": "地图"
+  },
+  "header": {
+    "language": "语言",
+    "switchToLight": "切换至浅色模式",
+    "switchToDark": "切换至深色模式",
+    "openMenu": "打开菜单",
+    "closeMenu": "关闭菜单",
+    "mainNav": "主导航",
+    "skipToContent": "跳至主要内容"
+  },
+  "footer": {
+    "about": "清化自然风光、特色美食与历史文化指南——越南中北部人杰地灵的文化名城。",
+    "explore": "探索",
+    "contact": "联系方式",
+    "addressLabel": "地址",
+    "address": "越南清化省清化市",
+    "emailLabel": "邮箱",
+    "phoneLabel": "电话",
+    "follow": "关注我们",
+    "rights": "© {{year}} Thanh Hoa Tourism. 保留所有权利。",
+    "imageCredit": "部分图片来自 Wikimedia Commons，版权按相应许可归原作者所有。"
+  },
+  "common": {
+    "loading": "加载中…",
+    "retry": "重试"
+  },
+  "states": {
+    "errorTitle": "无法加载数据",
+    "errorText": "连接服务器时出错，请检查网络连接后重试。",
+    "emptyTitle": "暂无地点",
+    "emptyText": "内容正在更新中，欢迎稍后再来。"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "清化 · 越南",
+      "title": "探索清化",
+      "subtitle": "从蒲良梯田到岑山海滩，从世界遗产胡朝城堡到地道清化风味美食。",
+      "ctaExplore": "探索目的地",
+      "ctaMap": "查看地图",
+      "ctaRandom": "今天去哪玩？"
+    },
+    "featured": {
+      "eyebrow": "精选推荐",
+      "title": "不容错过的目的地",
+      "subtitle": "最具代表性的自然风光、风味美食与历史遗产，开启您的清化之旅。"
+    },
+    "topics": {
+      "eyebrow": "主题",
+      "title": "按兴趣探索",
+      "count_other": "{{count}} 个地点",
+      "count_one": "{{count}} 个地点"
+    },
+    "recent": {
+      "eyebrow": "继续旅程",
+      "title": "最近浏览",
+      "clear": "清除记录"
+    },
+    "why": {
+      "eyebrow": "为什么选择清化",
+      "title": "山海风光、历史遗产与地道风味一网打尽",
+      "nature": {
+        "title": "多样的自然景观",
+        "text": "从西部云雾缭绕的梯田山林到东部绵长的海岸线，四季皆有不同的清化之美。"
+      },
+      "heritage": {
+        "title": "历史与文化遗产",
+        "text": "胡朝城堡、蓝京遗址、东山文化与咸龙桥娓娓道来越南历史的重要篇章。"
+      },
+      "food": {
+        "title": "地道特色美食",
+        "text": "清化酸肉卷、四柱苎麻叶饼和鲜甜海鲜勾勒出清化独特的味觉记忆。"
+      }
+    },
+    "cta": {
+      "title": "准备好规划行程了吗？",
+      "text": "在地图上查看所有景点，或向我们的 AI 助手 KAT 咨询定制行程建议。",
+      "map": "打开地图",
+      "chat": "咨询 KAT"
+    }
+  },
+  "categories": {
+    "tourism": {
+      "eyebrow": "目的地",
+      "title": "旅游",
+      "subtitle": "从蒲良自然保护区、岑山海滩到本恩国家公园——不容错过的风景。"
+    },
+    "cuisine": {
+      "eyebrow": "风味",
+      "title": "美食",
+      "subtitle": "清化酸肉卷、四柱苎麻叶饼与新鲜海味，感受地道的清化味道。"
+    },
+    "culture": {
+      "eyebrow": "遗产",
+      "title": "文化",
+      "subtitle": "胡朝城堡、东山文化、蓝京遗址——感受清化深厚的历史底蕴。"
+    }
+  },
+  "place": {
+    "eyebrow": "地点",
+    "viewDetails": "查看详情",
+    "breadcrumb": "当前位置",
+    "overview": "基本信息",
+    "address": "地址",
+    "category": "分类",
+    "about": "简介",
+    "highlights": "亮点特色",
+    "gallery": "图集",
+    "zoomImage": "放大查看图片: {{name}}",
+    "viewOnMap": "在地图中查看",
+    "directions": "导航路线",
+    "related": "猜你喜欢",
+    "backHome": "返回首页",
+    "addFavorite": "收藏",
+    "removeFavorite": "取消收藏",
+    "saved": "已收藏",
+    "markVisited": "标记去过",
+    "visited": "已打卡",
+    "audioGuide": "语音讲解",
+    "stopAudio": "停止播放",
+    "share": "分享",
+    "linkCopied": "已复制链接",
+    "askKat": "问 KAT 关于这里",
+    "askKatPrompt": "请为我推荐游览{{name}}的行程安排、最佳季节和实用攻略。",
+    "nearby": "附近景点"
+  },
+  "map": {
+    "eyebrow": "地图",
+    "title": "清化旅游地图",
+    "subtitle": "在地图上浏览清化省主要景点，点击图钉查看图片与简介。",
+    "filterAll": "全部",
+    "viewDetails": "查看详情",
+    "ariaMap": "清化景点地图",
+    "approx": "地图位置仅供参考。"
+  },
+  "kat": {
+    "name": "KAT",
+    "subtitle": "清化旅游助手",
+    "open": "打开 KAT 对话",
+    "close": "关闭对话",
+    "reset": "新对话",
+    "placeholder": "向 KAT 询问清化旅游攻略…",
+    "send": "发送",
+    "thinking": "KAT 正在回复…",
+    "welcome": "你好，我是 KAT —— 您的清化旅游智能助手。您想了解清化的哪些地方呢？",
+    "suggestionsLabel": "热门问题",
+    "suggestions": [
+      "蒲良什么时候去最美？",
+      "推荐岑山两日游行程",
+      "清化有哪些适合带回家的特产？"
+    ],
+    "disclaimer": "KAT 为 AI 助手，回答可能存在误差。门票价格与开放时间请以景区官方为准。",
+    "errors": {
+      "not_configured": "聊天机器人尚未配置，请联系网站管理员。",
+      "misconfigured": "聊天机器人配置有误，请稍后再试。",
+      "rate_limited": "发送过于频繁或服务繁忙，请几分钟后再试。",
+      "unavailable": "KAT 暂时无法响应，请稍后再试。",
+      "blocked": "KAT 无法回答此内容，请换个方式提问。",
+      "empty_reply": "KAT 未能生成回复，请重试。",
+      "empty_message": "请先输入您的问题。",
+      "network": "无法连接到服务器，请检查网络后重试。",
+      "unknown": "发生错误，请重试。"
+    }
+  },
+  "notFound": {
+    "title": "页面未找到",
+    "subtitle": "您访问的页面不存在或已被移动。",
+    "cta": "返回首页"
+  },
+  "admin": {
+    "title": "管理后台",
+    "subtitle": "仅限管理员访问。"
+  },
+  "weather": {
+    "defaultLocation": "清化市",
+    "liveLabel": "实时天气",
+    "loading": "正在获取天气…",
+    "feelsLike": "体感 {{temp}}°C",
+    "humidity": "湿度",
+    "wind": "风速",
+    "refresh": "刷新天气",
+    "codes": {
+      "clear": "晴朗",
+      "partlyCloudy": "多云转晴",
+      "cloudy": "阴天",
+      "fog": "有雾",
+      "drizzle": "毛毛雨",
+      "rain": "有雨",
+      "storm": "雷阵雨"
+    }
+  },
+  "saved": {
+    "title": "我的行程",
+    "close": "关闭",
+    "progressLabel": "清化探索进度",
+    "progressCount": "{{count}} / {{total}} 个地点",
+    "tabFavorites": "收藏夹",
+    "tabVisited": "已打卡",
+    "emptyFavorites": "还没有收藏任何地点，点击卡片上的爱心图标即可收藏。",
+    "emptyVisited": "您还没有标记任何已去过的地点。",
+    "remove": "从列表中移除",
+    "copyTrip": "复制行程清单",
+    "copied": "已复制行程清单！",
+    "copyHeader": "我的清化旅行清单："
+  },
+  "filter": {
+    "searchPlaceholder": "按名称、美食或地区搜索…",
+    "clearSearch": "清除搜索",
+    "onlyFavorites": "仅看收藏",
+    "nearest": "离我最近",
+    "locating": "定位中…",
+    "locationDenied": "无法获取您的位置，请在浏览器中允许定位权限。",
+    "noMatches": "没有找到符合当前筛选条件的地点。",
+    "reset": "重置筛选"
+  }
+}

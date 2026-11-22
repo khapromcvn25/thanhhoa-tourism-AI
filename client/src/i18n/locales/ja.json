@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "title": "タインホア — タイン地域の観光と文化",
+    "description": "プルオン、サムソンビーチ、胡朝城塞、ベンエン国立公園など、タインホアの自然・グルメ・文化を探索しましょう。"
+  },
+  "brand": {
+    "name": "Thanh Hóa",
+    "tagline": "観光と文化"
+  },
+  "nav": {
+    "home": "ホーム",
+    "tourism": "観光",
+    "cuisine": "グルメ",
+    "culture": "文化",
+    "map": "マップ"
+  },
+  "header": {
+    "language": "言語",
+    "switchToLight": "ライトモードに切替",
+    "switchToDark": "ダークモードに切替",
+    "openMenu": "メニューを開く",
+    "closeMenu": "メニューを閉じる",
+    "mainNav": "メインナビゲーション",
+    "skipToContent": "メインコンテンツへ移動"
+  },
+  "footer": {
+    "about": "ベトナム北中部の豊かな遺産を持つ地、タインホアの自然・グルメ・文化を紹介するガイドです。",
+    "explore": "探索する",
+    "contact": "お問い合わせ",
+    "addressLabel": "住所",
+    "address": "ベトナム タインホア省 タインホア市",
+    "emailLabel": "メール",
+    "phoneLabel": "電話",
+    "follow": "フォローする",
+    "rights": "© {{year}} Thanh Hoa Tourism. All rights reserved.",
+    "imageCredit": "一部の画像はWikimedia Commonsより引用しており、各ライセンスに基づき著作者に権利が帰属します。"
+  },
+  "common": {
+    "loading": "読み込み中…",
+    "retry": "再試行"
+  },
+  "states": {
+    "errorTitle": "データを読み込めませんでした",
+    "errorText": "サーバーへの接続中にエラーが発生しました。通信状況を確認して再度お試しください。",
+    "emptyTitle": "スポットがまだありません",
+    "emptyText": "コンテンツを更新中です。しばらくしてからもう一度ご覧ください。"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "タインホア · ベトナム",
+      "title": "タインホアを旅する",
+      "subtitle": "プルオンの棚田からサムソンの海辺、世界遺産・胡朝城塞、そして地元ならではの郷土料理まで。",
+      "ctaExplore": "スポットを探す",
+      "ctaMap": "地図を見る",
+      "ctaRandom": "今日はどこ行く？"
+    },
+    "featured": {
+      "eyebrow": "おすすめ",
+      "title": "外せない名所",
+      "subtitle": "旅の始まりにぴったりな代表的な名所・グルメ・文化遺産をご紹介します。"
+    },
+    "topics": {
+      "eyebrow": "テーマ",
+      "title": "興味から探す",
+      "count_other": "{{count}}件のスポット",
+      "count_one": "{{count}}件のスポット"
+    },
+    "recent": {
+      "eyebrow": "旅の続き",
+      "title": "最近見たスポット",
+      "clear": "履歴をクリア"
+    },
+    "why": {
+      "eyebrow": "タインホアの魅力",
+      "title": "山・海・歴史遺産・グルメを一度の旅で",
+      "nature": {
+        "title": "豊かな自然",
+        "text": "西部の棚田や湖が広がる山々から東部の長い海岸線まで、季節ごとに異なる表情を楽しめます。"
+      },
+      "heritage": {
+        "title": "歴史と遺産",
+        "text": "胡朝城塞、ラムキン遺跡、ドンソン文化、ハムロン橋がベトナムの歴史の重要な節目を語り継ぎます。"
+      },
+      "food": {
+        "title": "奥深い郷土の味",
+        "text": "ネムチュア、トゥーチューのバインガイ、新鮮な海の幸がタインホア独自の食文化を彩ります。"
+      }
+    },
+    "cta": {
+      "title": "旅の計画を立てませんか？",
+      "text": "地図でスポットを確認したり、AIアシスタント「KAT」におすすめプランを相談できます。",
+      "map": "地図を開く",
+      "chat": "KATに聞く"
+    }
+  },
+  "categories": {
+    "tourism": {
+      "eyebrow": "観光スポット",
+      "title": "観光",
+      "subtitle": "プルオン自然保護区、サムソンビーチ、ベンエン国立公園など見逃せない名所。"
+    },
+    "cuisine": {
+      "eyebrow": "郷土料理",
+      "title": "グルメ",
+      "subtitle": "ネムチュア、バインガイ、新鮮な海鮮などタインホアならではの味覚。"
+    },
+    "culture": {
+      "eyebrow": "歴史・遺産",
+      "title": "文化",
+      "subtitle": "胡朝城塞、ドンソン文化、ラムキン遺跡などタインホアの歴史の深み。"
+    }
+  },
+  "place": {
+    "eyebrow": "スポット",
+    "viewDetails": "詳細を見る",
+    "breadcrumb": "パンくずリスト",
+    "overview": "基本情報",
+    "address": "住所",
+    "category": "カテゴリー",
+    "about": "紹介",
+    "highlights": "見どころ",
+    "gallery": "フォトギャラリー",
+    "zoomImage": "写真を拡大: {{name}}",
+    "viewOnMap": "地図で見る",
+    "directions": "ルート案内",
+    "related": "こちらもおすすめ",
+    "backHome": "ホームへ戻る",
+    "addFavorite": "お気に入り",
+    "removeFavorite": "お気に入り解除",
+    "saved": "保存済み",
+    "markVisited": "行った記録",
+    "visited": "訪問済み",
+    "audioGuide": "音声ガイド",
+    "stopAudio": "読み上げ停止",
+    "share": "共有",
+    "linkCopied": "リンクをコピーしました",
+    "askKat": "KATにこの場所を聞く",
+    "askKatPrompt": "{{name}}のおすすめモデルコース、ベストシーズン、観光のコツを教えてください。",
+    "nearby": "周辺のスポット"
+  },
+  "map": {
+    "eyebrow": "マップ",
+    "title": "タインホア観光マップ",
+    "subtitle": "タインホア省の主要スポットを地図上で確認できます。ピンをタップすると写真と概要が表示されます。",
+    "filterAll": "すべて",
+    "viewDetails": "詳細を見る",
+    "ariaMap": "タインホア省のスポット地図",
+    "approx": "地図上の位置は目安です。"
+  },
+  "kat": {
+    "name": "KAT",
+    "subtitle": "タインホア観光アシスタント",
+    "open": "KATとチャットを開く",
+    "close": "チャットを閉じる",
+    "reset": "新しい会話",
+    "placeholder": "タインホア観光についてKATに質問…",
+    "send": "送信",
+    "thinking": "KATが返信中…",
+    "welcome": "こんにちは、タインホア観光AIアシスタントのKATです。タインホアで何を探していますか？",
+    "suggestionsLabel": "おすすめの質問",
+    "suggestions": [
+      "プルオンのベストシーズンはいつ？",
+      "サムソン1泊2日のモデルコースを教えて",
+      "お土産におすすめの名物は？"
+    ],
+    "disclaimer": "KATはAIのため誤りを含む場合があります。入場料や営業時間は現地でご確認ください。",
+    "errors": {
+      "not_configured": "チャットボットがまだ設定されていません。管理者にお問い合わせください。",
+      "misconfigured": "チャットボットの設定に問題があります。しばらくしてからお試しください。",
+      "rate_limited": "送信が速すぎるか混雑しています。数分後にお試しください。",
+      "unavailable": "KATは現在利用できません。しばらくしてからお試しください。",
+      "blocked": "この内容には回答できません。別の表現でお試しください。",
+      "empty_reply": "回答を生成できませんでした。もう一度お試しください。",
+      "empty_message": "質問を入力してください。",
+      "network": "サーバーに接続できませんでした。通信状況をご確認ください。",
+      "unknown": "エラーが発生しました。もう一度お試しください。"
+    }
+  },
+  "notFound": {
+    "title": "ページが見つかりません",
+    "subtitle": "お探しのページは存在しないか、移動された可能性があります。",
+    "cta": "ホームへ戻る"
+  },
+  "admin": {
+    "title": "管理画面",
+    "subtitle": "管理者専用エリアです。"
+  },
+  "weather": {
+    "defaultLocation": "タインホア市",
+    "liveLabel": "現在の天気",
+    "loading": "天気を取得中…",
+    "feelsLike": "体感 {{temp}}°C",
+    "humidity": "湿度",
+    "wind": "風速",
+    "refresh": "天気を更新",
+    "codes": {
+      "clear": "快晴",
+      "partlyCloudy": "晴れ時々曇り",
+      "cloudy": "曇り",
+      "fog": "霧",
+      "drizzle": "霧雨",
+      "rain": "雨",
+      "storm": "雷雨"
+    }
+  },
+  "saved": {
+    "title": "マイトリップ",
+    "close": "閉じる",
+    "progressLabel": "タインホア制覇度",
+    "progressCount": "{{count}} / {{total}} スポット",
+    "tabFavorites": "お気に入り",
+    "tabVisited": "訪問済み",
+    "emptyFavorites": "保存したスポットはまだありません。ハートアイコンを押して保存しましょう。",
+    "emptyVisited": "訪問済みのスポットはまだありません。",
+    "remove": "リストから削除",
+    "copyTrip": "リストをコピー",
+    "copied": "コピーしました！",
+    "copyHeader": "私のタインホア旅行リスト:"
+  },
+  "filter": {
+    "searchPlaceholder": "スポット名・料理・エリアで検索…",
+    "clearSearch": "検索をクリア",
+    "onlyFavorites": "お気に入りのみ",
+    "nearest": "現在地から近い順",
+    "locating": "位置を取得中…",
+    "locationDenied": "位置情報を取得できませんでした。ブラウザの位置情報許可をご確認ください。",
+    "noMatches": "条件に一致するスポットが見つかりませんでした。",
+    "reset": "フィルターをリセット"
+  }
+}
