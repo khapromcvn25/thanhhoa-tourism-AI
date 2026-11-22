@@ -1,0 +1,941 @@
+{
+  "places": [
+    {
+      "slug": "pu-luong",
+      "category": "tourism",
+      "featured": true,
+      "order": 1,
+      "name": {
+        "vi": "Khu bảo tồn thiên nhiên Pù Luông",
+        "en": "Pù Luông Nature Reserve",
+        "ja": "プルオン自然保護区",
+        "ko": "푸루옹 자연보호구역",
+        "zh": "蒲良自然保护区",
+        "fr": "Réserve naturelle de Pù Luông"
+      },
+      "summary": {
+        "vi": "Ruộng bậc thang, bản làng Thái – Mường và những cánh rừng mây phủ giữa miền núi phía Tây xứ Thanh.",
+        "en": "Terraced rice fields, Thai and Muong villages and cloud-covered forests in the western mountains of Thanh Hoa.",
+        "ja": "タインホア西部山岳地帯に広がる棚田、タイ族・ムオン族の村々、そして雲に包まれた原生林。",
+        "ko": "타인호아 서부 산악 지대의 계단식 논, 타이·므엉족 마을, 구름이 감싼 울창한 숲.",
+        "zh": "位于清化西部山区的层层梯田、泰族与芒族村落以及云雾缭绕的原始森林。",
+        "fr": "Rizières en terrasses, villages thaïs et muongs et forêts couvertes de nuages dans les montagnes de l'ouest de Thanh Hoa."
+      },
+      "description": {
+        "vi": "Pù Luông trải dài qua địa phận các huyện Bá Thước và Quan Hóa, là một trong những điểm đến nghỉ dưỡng thiên nhiên được yêu thích nhất của Thanh Hóa. Những thửa ruộng bậc thang uốn lượn theo triền núi, những guồng nước quay chậm bên suối và các bản làng nhà sàn của người Thái, người Mường tạo nên một bức tranh yên bình, đậm chất bản địa.\n\nĐỉnh Pù Luông cao khoảng 1.700 m, quanh năm mát mẻ. Du khách có thể đi bộ xuyên rừng, tắm thác Hiêu, ở homestay nhà sàn và thưởng thức ẩm thực vùng cao. Lúa chín vàng thường vào khoảng tháng 5–6 và tháng 9–10, là thời điểm đẹp nhất để ngắm ruộng bậc thang.",
+        "en": "Pù Luông stretches across Bá Thước and Quan Hóa districts and is one of the most loved nature getaways in Thanh Hoa. Terraced rice fields wind along the slopes, water wheels turn slowly beside streams, and stilt-house villages of the Thai and Muong people complete a calm, deeply local landscape.\n\nThe highest peak rises to about 1,700 m, keeping the air cool all year. Visitors can trek through the forest, swim at Hiêu Waterfall, stay in stilt-house homestays and taste highland cuisine. The rice usually ripens to gold around May–June and September–October, the best time to see the terraces.",
+        "ja": "プルオンはバーチュオック郡とクアンホア郡にまたがり、タインホアで最も人気のある自然リゾート地の一つです。山の斜面に沿って続く棚田、小川でゆっくり回る水車、タイ族やムオン族の高床式住居の村々が穏やかで素朴な風景を描き出します。\n\n最高峰は標高約1,700mで年間を通じて涼しく、森林トレッキングやヒエウ滝での水遊び、高床式ホームステイ、山の郷土料理を楽しめます。稲が黄金色に輝く5〜6月と9〜10月が棚田鑑賞のベストシーズンです。",
+        "ko": "푸루옹은 바트억현과 콴호아현에 걸쳐 있으며 타인호아에서 가장 사랑받는 자연 휴양지 중 하나입니다. 산비탈을 따라 펼쳐진 계단식 논, 개울가의 물레방아, 타이족과 므엉족의 수상 가옥 마을이 평화로운 풍경을 자아냅니다.\n\n해발 약 1,700m의 봉우리 덕분에 연중 선선하며 숲 트레킹, 히에우 폭포 물놀이, 전통 가옥 홈스테이와 산간 요리를 즐길 수 있습니다. 벼가 황금빛으로 물드는 5~6월과 9~10월이 가장 아름다운 시기입니다.",
+        "zh": "蒲良横跨伯烁县与关化县，是清化最受欢迎的自然度假胜地之一。顺山势蜿蜒的梯田、溪边缓缓转动的水车，以及泰族和芒族的高脚屋村落，共同勾勒出一幅宁静质朴的画卷。\n\n主峰海拔约1700米，终年气候凉爽。游客可体验森林徒步、在孝瀑布戏水、入住高脚屋民宿并品尝山地美食。每年5至6月和9至10月稻谷金黄时节，是观赏梯田的最佳时期。",
+        "fr": "S'étendant sur les districts de Bá Thước et Quan Hóa, Pù Luông est l'une des retraites naturelles les plus prisées de Thanh Hoa. Les rizières en terrasses serpentent sur les pentes, les roues à eau tournent lentement au bord des ruisseaux et les villages sur pilotis thaïs et muongs composent un paysage paisible.\n\nSon sommet culmine à environ 1 700 m, offrant un climat frais toute l'année. On y pratique la randonnée en forêt, la baignade à la cascade Hiêu et les séjours chez l'habitant. Les récoltes de mai-juin et septembre-octobre sont les meilleures périodes pour admirer les terrasses dorées."
+      },
+      "address": {
+        "vi": "Bá Thước và Quan Hóa, tỉnh Thanh Hóa (cách thành phố Thanh Hóa khoảng 100 km)",
+        "en": "Bá Thước and Quan Hóa, Thanh Hoa Province (about 100 km from Thanh Hoa City)",
+        "ja": "タインホア省バーチュオック郡・クアンホア郡（タインホア市から約100km）",
+        "ko": "베트남 타인호아성 바트억현 및 콴호아현 (타인호아시에서 약 100km)",
+        "zh": "清化省伯烁县与关化县（距清化市约100公里）",
+        "fr": "Districts de Bá Thước et Quan Hóa, province de Thanh Hoa (à environ 100 km de la ville de Thanh Hoa)"
+      },
+      "highlights": {
+        "vi": [
+          "Ruộng bậc thang đẹp nhất vào mùa lúa chín",
+          "Guồng nước và bản làng nhà sàn Thái – Mường",
+          "Trekking xuyên rừng và tắm thác Hiêu",
+          "Homestay nhà sàn giữa thung lũng",
+          "Khí hậu mát mẻ quanh năm"
+        ],
+        "en": [
+          "Rice terraces at their best in harvest season",
+          "Water wheels and Thai–Muong stilt-house villages",
+          "Forest trekking and swimming at Hiêu Waterfall",
+          "Stilt-house homestays in the valley",
+          "Cool climate all year round"
+        ],
+        "ja": [
+          "収穫期に黄金色に輝く棚田",
+          "水車とタイ族・ムオン族の高床式村落",
+          "森林トレッキングとヒエウ滝",
+          "谷間の高床式ホームステイ",
+          "年間を通じて涼しい気候"
+        ],
+        "ko": [
+          "수확철 황금빛 계단식 논",
+          "물레방아와 타이·므엉족 전통 마을",
+          "숲 트레킹 및 히에우 폭포",
+          "계곡 속 전통 가옥 홈스테이",
+          "연중 쾌적하고 선선한 기후"
+        ],
+        "zh": [
+          "稻谷成熟季绝美的金色梯田",
+          "溪边水车与泰族、芒族高脚屋村落",
+          "森林徒步与孝瀑布戏水",
+          "山谷高脚屋民宿体验",
+          "终年凉爽宜人的气候"
+        ],
+        "fr": [
+          "Rizières en terrasses dorées à la récolte",
+          "Roues à eau et villages sur pilotis thaïs et muongs",
+          "Randonnée en forêt et cascade Hiêu",
+          "Séjours chez l'habitant dans la vallée",
+          "Climat frais toute l'année"
+        ]
+      },
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Pu_Luong_01.JPG?width=1600",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Ru%E1%BB%99ng_b%E1%BA%ADc_thang_P%C3%B9_Lu%C3%B4ng_1_-_NKS.jpg?width=1600",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Pu_Luong_National_Reserve_%2815179778663%29.jpg?width=1600"
+      ],
+      "coordinates": {
+        "lat": 20.475,
+        "lng": 105.19
+      },
+      "updatedAt": "2026-11-11T00:00:00.000Z"
+    },
+    {
+      "slug": "sam-son",
+      "category": "tourism",
+      "featured": true,
+      "order": 2,
+      "name": {
+        "vi": "Biển Sầm Sơn",
+        "en": "Sầm Sơn Beach",
+        "ja": "サムソンビーチ",
+        "ko": "삼선 해변",
+        "zh": "岑山海滩",
+        "fr": "Plage de Sầm Sơn"
+      },
+      "summary": {
+        "vi": "Bãi biển nổi tiếng từ đầu thế kỷ XX, gắn với Hòn Trống Mái, đền Độc Cước và hải sản tươi ngon.",
+        "en": "A beach resort famous since the early 20th century, home to Trống Mái Rock, Độc Cước Temple and fresh seafood.",
+        "ja": "20世紀初頭から知られる名高い海辺のリゾート。チョンマイ岩、ドッククオック寺院、新鮮な海鮮が魅力です。",
+        "ko": "20세기 초부터 사랑받아온 대표 해변 휴양지로, 쫑마이 바위, 독끄억 사원, 싱싱한 해산물로 유명합니다.",
+        "zh": "自20世纪初便享誉盛名的海滨胜地，以夫妻石、独脚庙和新鲜海产闻名。",
+        "fr": "Station balnéaire célèbre depuis le début du XXe siècle, connue pour le rocher Trống Mái, le temple Độc Cước et ses fruits de mer."
+      },
+      "description": {
+        "vi": "Sầm Sơn là thành phố biển nổi tiếng của Thanh Hóa, được nhiều thế hệ du khách miền Bắc biết đến từ đầu thế kỷ XX. Bãi cát dài, sóng biển thoải mái, cùng khu vực núi Trường Lệ phủ xanh tạo nên cảnh quan vừa nghỉ dưỡng vừa có chiều sâu văn hóa.\n\nNgoài tắm biển, du khách có thể ghé Hòn Trống Mái gắn với truyền thuyết về đôi trống mái hóa đá, viếng đền Độc Cước, đền Cô Tiên trên núi Trường Lệ, rồi thưởng thức hải sản vừa cập bến. Mùa du lịch biển sôi động nhất thường từ tháng 5 đến tháng 8.",
+        "en": "Sầm Sơn is the best-known seaside city of Thanh Hoa, a favourite of generations of northern travellers since the early 20th century. A long sandy beach, gentle waves and the green Trường Lệ mountain give it both a resort feel and cultural depth.\n\nBesides swimming, visitors can see Trống Mái Rock, tied to the legend of a rooster and hen turned to stone, visit Độc Cước Temple and Cô Tiên Temple on Trường Lệ mountain, and enjoy seafood fresh from the boats. The busiest beach season usually runs from May to August.",
+        "ja": "サムソンは20世紀初頭からベトナム北部の人々に親しまれてきたタインホアを代表する海辺の街です。長い砂浜と穏やかな波、緑豊かなチュオンレー山がリゾート気分と文化的な趣を同時に演出します。\n\n海水浴のほか、石になった雄鶏と雌鶏の伝説が残るチョンマイ岩や、チュオンレー山のドッククオック寺院・コーティエン寺院を巡り、水揚げされたばかりの新鮮な海鮮を味わえます。海水浴シーズンは5月から8月が最も賑わいます。",
+        "ko": "삼선은 20세기 초부터 베트남 북부 여행객들에게 사랑받아온 타인호아의 대표적인 해안 도시입니다. 길게 뻗은 백사장과 부드러운 파도, 푸른 쯔엉레산이 어우러져 휴양과 문화의 깊이를 함께 느낄 수 있습니다.\n\n해수욕 외에도 전설이 깃든 쫑마이 바위와 쯔엉레산의 독끄억 사원, 꼬띠엔 사원을 둘러보고 갓 잡은 해산물을 즐길 수 있습니다. 해변 여행 성수기는 5월부터 8월입니다.",
+        "zh": "岑山是清化著名的海滨城市，自20世纪初起便是越南北部游客喜爱的避暑胜地。绵长的沙滩、柔和的海浪与翠绿的长丽山相映成趣，兼具度假风情与文化底蕴。\n\n除海水浴外，游客还可探访流传着动人传说的夫妻石，参拜长丽山上的独脚庙与仙姑庙，并在渔港品尝刚上岸的新鲜海鲜。每年5月至8月是最热闹的海滨旅游季。",
+        "fr": "Sầm Sơn est la station balnéaire emblématique de Thanh Hoa, appréciée depuis le début du XXe siècle. Sa longue plage de sable, ses vagues agréables et le mont Trường Lệ verdoyant offrent un cadre mêlant détente et patrimoine.\n\nOutre la baignade, on y découvre le rocher légendaire Trống Mái, les temples Độc Cước et Cô Tiên sur le mont Trường Lệ, ainsi que des fruits de mer tout juste débarqués. La haute saison balnéaire s'étend de mai à août."
+      },
+      "address": {
+        "vi": "Thành phố Sầm Sơn, tỉnh Thanh Hóa (cách thành phố Thanh Hóa khoảng 16 km)",
+        "en": "Sầm Sơn City, Thanh Hoa Province (about 16 km from Thanh Hoa City)",
+        "ja": "タインホア省サムソン市（タインホア市から約16km）",
+        "ko": "베트남 타인호아성 삼선시 (타인호아시에서 약 16km)",
+        "zh": "清化省岑山市（距清化市约16公里）",
+        "fr": "Ville de Sầm Sơn, province de Thanh Hoa (à environ 16 km de la ville de Thanh Hoa)"
+      },
+      "highlights": {
+        "vi": [
+          "Bãi biển dài, phù hợp nghỉ dưỡng gia đình",
+          "Hòn Trống Mái và truyền thuyết đôi trống mái",
+          "Đền Độc Cước, đền Cô Tiên trên núi Trường Lệ",
+          "Hải sản tươi tại bến thuyền"
+        ],
+        "en": [
+          "Long beach suited to family holidays",
+          "Trống Mái Rock and its legend",
+          "Độc Cước and Cô Tiên temples on Trường Lệ mountain",
+          "Fresh seafood at the fishing harbour"
+        ],
+        "ja": [
+          "家族旅行に最適な長い砂浜",
+          "伝説の残るチョンマイ岩",
+          "チュオンレー山のドッククオック寺院とコーティエン寺院",
+          "漁港で味わう新鮮な海の幸"
+        ],
+        "ko": [
+          "가족 휴양에 좋은 긴 백사장",
+          "전설이 깃든 쫑마이 바위",
+          "쯔엉레산 독끄억·꼬띠엔 사원",
+          "어항에서 즐기는 싱싱한 해산물"
+        ],
+        "zh": [
+          "适合家庭度假的绵长沙滩",
+          "充满传奇色彩的夫妻石",
+          "长丽山独脚庙与仙姑庙",
+          "渔港直供的新鲜海产"
+        ],
+        "fr": [
+          "Longue plage idéale pour les familles",
+          "Rocher Trống Mái et sa légende",
+          "Temples Độc Cước et Cô Tiên sur le mont Trường Lệ",
+          "Fruits de mer frais au port de pêche"
+        ]
+      },
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A3i_bi%E1%BB%83n_S%E1%BA%A7m_S%C6%A1n_%E1%BB%9F_Thanh_H%C3%B3a.jpg?width=1600",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/B%E1%BA%BFn_thuy%E1%BB%81n_S%E1%BA%A7m_S%C6%A1n.jpg?width=1600"
+      ],
+      "coordinates": {
+        "lat": 19.739,
+        "lng": 105.904
+      },
+      "updatedAt": "2026-11-11T00:00:00.000Z"
+    },
+    {
+      "slug": "ben-en",
+      "category": "tourism",
+      "featured": false,
+      "order": 3,
+      "name": {
+        "vi": "Vườn quốc gia Bến En",
+        "en": "Bến En National Park",
+        "ja": "ベンエン国立公園",
+        "ko": "벤엔 국립공원",
+        "zh": "本恩国家公园",
+        "fr": "Parc national de Bến En"
+      },
+      "summary": {
+        "vi": "Hồ Sông Mực với những hòn đảo xanh và khu rừng nhiệt đới rộng lớn, nơi nghỉ dưỡng và khám phá thiên nhiên.",
+        "en": "Sông Mực Lake with green islets and a vast tropical forest, ideal for relaxing and exploring nature.",
+        "ja": "緑の小島が浮かぶソンムック湖と広大な熱帯林。自然探索と静かな休養にぴったりの場所です。",
+        "ko": "푸른 작은 섬들이 떠 있는 송믁 호수와 광활한 열대림이 어우러진 자연 휴양지입니다.",
+        "zh": "墨江湖上翠岛点点，四周环绕广袤热带森林，是休闲放松与亲近自然的理想之地。",
+        "fr": "Le lac Sông Mực parsemé d'îlots verdoyants et une vaste forêt tropicale, parfaits pour se ressourcer."
+      },
+      "description": {
+        "vi": "Vườn quốc gia Bến En nằm trên địa bàn huyện Như Thanh và Như Xuân. Trung tâm của vườn là hồ Sông Mực với nhiều hòn đảo nhỏ nổi lên giữa mặt nước, bao quanh là rừng nhiệt đới có hệ động, thực vật phong phú, trong đó có nhiều cây gỗ quý như lim xanh.\n\nDu khách có thể đi thuyền trên hồ, tham quan các đảo, đi bộ trong rừng và nghỉ tại các cơ sở lưu trú trong khu vực. Không khí trong lành và cảnh quan yên tĩnh khiến nơi đây phù hợp cho chuyến đi cuối tuần cách xa phố thị.",
+        "en": "Bến En National Park lies in Như Thanh and Như Xuân districts. At its heart is Sông Mực Lake, dotted with small islands and surrounded by tropical forest rich in wildlife and plants, including valuable timber trees such as ironwood.\n\nVisitors can take boat rides on the lake, visit the islands, walk through the forest and stay at lodgings in the area. Fresh air and quiet scenery make it a good weekend escape from the city.",
+        "ja": "ベンエン国立公園はニュータイン郡とニュースアン郡に位置します。公園の中心には小さな島々が点在するソンムック湖が広がり、周囲を鉄木などの貴重な樹木を含む豊かな熱帯林が囲んでいます。\n\n湖上ボート遊覧や島巡り、森林散策、周辺施設での宿泊が楽しめます。澄んだ空気と静かな景観は、都会を離れた週末旅行に最適です。",
+        "ko": "벤엔 국립공원은 뉴타인현과 뉴쑤언현에 자리합니다. 공원 중심부에는 수많은 작은 섬이 떠 있는 송믁 호수가 있고, 주변은 철목 등 귀중한 수종과 다양한 동식물이 서식하는 열대림으로 둘러싸여 있습니다.\n\n호수 보트 투어, 섬 탐방, 숲길 산책과 인근 숙박을 즐길 수 있어 도시를 벗어난 주말 휴식에 제격입니다.",
+        "zh": "本恩国家公园位于如清县与如春县境内。公园核心是点缀着众多翠绿小岛的墨江湖，四周被生物多样性丰富的热带森林环绕，生长着珍贵的格木等林木。\n\n游客可乘船游湖、登岛观光、林间徒步并入住周边度假设施。清新的空气与静谧的湖山风光，使其成为远离城市喧嚣的周末好去处。",
+        "fr": "Le parc national de Bến En s'étend sur les districts de Như Thanh et Như Xuân. En son cœur se trouve le lac Sông Mực, constellé d'îlots et entouré d'une forêt tropicale abritant une faune et une flore variées.\n\nLes visiteurs peuvent faire des excursions en bateau, marcher en forêt et séjourner dans les environs. L'air pur et la tranquillité des lieux en font une escapade idéale le week-end."
+      },
+      "address": {
+        "vi": "Như Thanh và Như Xuân, tỉnh Thanh Hóa (cách thành phố Thanh Hóa khoảng 36 km)",
+        "en": "Như Thanh and Như Xuân, Thanh Hoa Province (about 36 km from Thanh Hoa City)",
+        "ja": "タインホア省ニュータイン郡・ニュースアン郡（タインホア市から約36km）",
+        "ko": "베트남 타인호아성 뉴타인현 및 뉴쑤언현 (타인호아시에서 약 36km)",
+        "zh": "清化省如清县与如春县（距清化市约36公里）",
+        "fr": "Districts de Như Thanh et Như Xuân, province de Thanh Hoa (à environ 36 km de la ville de Thanh Hoa)"
+      },
+      "highlights": {
+        "vi": [
+          "Hồ Sông Mực với nhiều đảo nhỏ",
+          "Rừng nhiệt đới và hệ sinh thái đa dạng",
+          "Đi thuyền, đi bộ rừng, ngắm chim",
+          "Không gian yên tĩnh gần thành phố"
+        ],
+        "en": [
+          "Sông Mực Lake and its many small islands",
+          "Tropical forest and diverse ecosystem",
+          "Boat trips, forest walks and birdwatching",
+          "A quiet retreat close to the city"
+        ],
+        "ja": [
+          "小島が点在するソンムック湖",
+          "豊かな生態系を持つ熱帯林",
+          "ボート遊覧・森林散策・バードウォッチング",
+          "市街地から近い静かな自然空間"
+        ],
+        "ko": [
+          "작은 섬들이 어우러진 송믁 호수",
+          "풍부한 생태계의 열대림",
+          "보트 투어·숲 산책·탐조",
+          "도심과 가까운 고요한 휴식처"
+        ],
+        "zh": [
+          "岛屿星罗棋布的墨江湖",
+          "生态多样的热带森林",
+          "游船、森林徒步与观鸟",
+          "靠近市区的宁静自然空间"
+        ],
+        "fr": [
+          "Lac Sông Mực et ses nombreux îlots",
+          "Forêt tropicale à l'écosystème riche",
+          "Balades en bateau, randonnée et observation des oiseaux",
+          "Havre de paix proche de la ville"
+        ]
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Lake_Song_Muc.jpg/960px-Lake_Song_Muc.jpg"
+      ],
+      "coordinates": {
+        "lat": 19.55,
+        "lng": 105.44
+      },
+      "updatedAt": "2026-11-22T11:53:58.728Z"
+    },
+    {
+      "slug": "cam-luong",
+      "category": "tourism",
+      "featured": false,
+      "order": 4,
+      "name": {
+        "vi": "Suối cá thần Cẩm Lương",
+        "en": "Cẩm Lương Sacred Fish Stream",
+        "ja": "カムルオン神魚渓流",
+        "ko": "깜르엉 신성한 물고기 계곡",
+        "zh": "锦良神鱼溪",
+        "fr": "Ruisseau aux poissons sacrés de Cẩm Lương"
+      },
+      "summary": {
+        "vi": "Dòng suối trong vắt nơi hàng nghìn con cá được người Mường xem là cá thần, được bảo vệ qua nhiều thế hệ.",
+        "en": "A crystal-clear stream where thousands of fish are regarded by the Muong people as sacred and have been protected for generations.",
+        "ja": "ムオン族が代々「神の魚」として守り続けてきた数千匹の魚が泳ぐ透き通った渓流。",
+        "ko": "므엉족이 대대로 신성한 물고기로 여기며 보호해 온 수천 마리의 물고기가 헤엄치는 맑은 계곡입니다.",
+        "zh": "清澈见底的山涧中游弋着数千尾被芒族人世代奉为神鱼并精心守护的鱼群。",
+        "fr": "Un ruisseau cristallin où nagent des milliers de poissons considérés comme sacrés et protégés par le peuple Muong."
+      },
+      "description": {
+        "vi": "Suối cá thần Cẩm Lương thuộc huyện Cẩm Thủy, là một điểm đến tâm linh và sinh thái độc đáo. Theo quan niệm của người Mường địa phương, đàn cá sống ở đây là cá thần nên không ai được bắt, và truyền thống ấy giúp đàn cá sinh sống ổn định qua nhiều thế hệ.\n\nDu khách đứng trên cầu hoặc lối đi ven suối để ngắm những đàn cá lội dày đặc dưới làn nước xanh trong. Khi đến thăm, hãy giữ gìn vệ sinh, không bắt cá, không xả rác xuống suối để cùng bảo vệ không gian linh thiêng này.",
+        "en": "The Cẩm Lương sacred fish stream in Cẩm Thủy district is a distinctive spiritual and ecological destination. In the belief of the local Muong people, the fish living here are sacred and must never be caught, a tradition that has kept the shoals thriving for generations.\n\nVisitors watch from the bridge or the paths beside the stream as dense schools swim in the clear green water. Please keep the place clean, never catch the fish and do not litter, to help protect this sacred space.",
+        "ja": "カムトゥイ郡にあるカムルオン神魚渓流は、独特の信仰と自然が息づくスポットです。地元のムオン族の伝承ではここに棲む魚は神の使いとされ、誰も捕獲しないため何世代にもわたり群れが守られてきました。\n\n橋や遊歩道から澄んだ水の中を泳ぐ魚の大群を間近に観察できます。訪れる際は魚を捕らず、ゴミを捨てないなど神聖な空間の保全にご協力ください。",
+        "ko": "깜투이현에 위치한 깜르엉 신성한 물고기 계곡은 독특한 영적·생태 명소입니다. 현지 므엉족은 이곳의 물고기를 신성하게 여겨 잡지 않는 전통을 지켜왔으며 덕분에 수많은 물고기 떼가 안정적으로 서식하고 있습니다.\n\n다리나 산책로에서 맑은 물속을 헤엄치는 물고기 떼를 감상할 수 있습니다. 방문 시 물고기를 잡거나 쓰레기를 버리지 않도록 주의해 주세요.",
+        "zh": "锦良神鱼溪位于锦水县，是一处独具特色的人文与生态景点。按照当地芒族传统，溪中鱼群被视为神灵化身，严禁捕捞，世代守护使鱼群生生不息。\n\n游客可站在小桥或溪畔步道上欣赏清澈碧水中成群游动的鱼儿。参观时请文明游览，切勿捕鱼或乱丢垃圾。",
+        "fr": "Situé dans le district de Cẩm Thủy, le ruisseau de Cẩm Lương est un site spirituel et écologique singulier. Selon la tradition muong, les poissons qui y vivent sont sacrés et intouchables, ce qui a permis aux bancs de prospérer depuis des générations.\n\nLes visiteurs observent depuis le pont ou les berges les poissons évoluer dans l'eau limpide. Merci de respecter les lieux en ne pêchant pas et en ne jetant aucun déchet."
+      },
+      "address": {
+        "vi": "Xã Cẩm Lương, huyện Cẩm Thủy, tỉnh Thanh Hóa",
+        "en": "Cẩm Lương Commune, Cẩm Thủy District, Thanh Hoa Province",
+        "ja": "タインホア省カムトゥイ郡カムルオン社",
+        "ko": "베트남 타인호아성 깜투이현 깜르엉면",
+        "zh": "清化省锦水县锦良社",
+        "fr": "Commune de Cẩm Lương, district de Cẩm Thủy, province de Thanh Hoa"
+      },
+      "highlights": {
+        "vi": [
+          "Đàn cá lội dày đặc trong dòng suối trong xanh",
+          "Tín ngưỡng cá thần của người Mường",
+          "Không gian yên tĩnh, thích hợp tham quan ngắn",
+          "Quy tắc ứng xử: không bắt cá, không xả rác"
+        ],
+        "en": [
+          "Dense shoals in a clear green stream",
+          "The Muong people's sacred fish tradition",
+          "A calm place for a short visit",
+          "Etiquette: never catch the fish, never litter"
+        ],
+        "ja": [
+          "澄んだ渓流を泳ぐ魚の大群",
+          "ムオン族の神魚信仰",
+          "短時間でも立ち寄りやすい静かな空間",
+          "マナー：捕魚・ポイ捨て禁止"
+        ],
+        "ko": [
+          "맑은 계곡을 가득 채운 물고기 떼",
+          "므엉족의 신성한 물고기 전통",
+          "가볍게 들르기 좋은 평온한 공간",
+          "에티켓: 포획 및 쓰레기 투기 금지"
+        ],
+        "zh": [
+          "清澈碧水中密密麻麻的鱼群",
+          "芒族独特的神鱼信仰文化",
+          "环境清幽，适合短途参观",
+          "游览礼仪：禁止捕鱼与乱丢垃圾"
+        ],
+        "fr": [
+          "Bancs denses dans une eau limpide",
+          "Tradition sacrée du peuple Muong",
+          "Cadre paisible pour une courte visite",
+          "Respect des lieux : ne pas pêcher, ne pas jeter de déchets"
+        ]
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/40/Suoi_ca_Cam_Luong.jpg?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=original"
+      ],
+      "coordinates": {
+        "lat": 20.21,
+        "lng": 105.49
+      },
+      "updatedAt": "2026-11-22T11:55:20.111Z"
+    },
+    {
+      "slug": "nem-chua",
+      "category": "cuisine",
+      "featured": true,
+      "order": 5,
+      "name": {
+        "vi": "Nem chua Thanh Hóa",
+        "en": "Thanh Hoa Nem Chua",
+        "ja": "タインホアのネムチュア",
+        "ko": "타인호아 넴쭈어",
+        "zh": "清化酸肉卷",
+        "fr": "Nem chua de Thanh Hoa"
+      },
+      "summary": {
+        "vi": "Món nem lên men từ thịt lợn, thính gạo và gia vị, vị chua nhẹ, cay thơm, là quà đặc sản của xứ Thanh.",
+        "en": "Fermented pork rolls with rice powder and spices, lightly sour, spicy and aromatic, a signature gift from Thanh Hoa.",
+        "ja": "豚肉・炒り米粉・スパイスを自然発酵させた、ほのかな酸味と辛みがクセになるタインホア定番土産。",
+        "ko": "돼지고기와 볶은 쌀가루, 향신료를 자연 발효시켜 새콤매콤한 맛이 일품인 타인호아 대표 특산물입니다.",
+        "zh": "以鲜猪肉、炒米粉与香料自然发酵制成，微酸微辣香气浓郁，是清化最具代表性的伴手礼。",
+        "fr": "Rouleaux de porc fermenté à la poudre de riz grillé et aux épices, légèrement acidulés et relevés, spécialité phare de Thanh Hoa."
+      },
+      "description": {
+        "vi": "Nem chua là một trong những đặc sản được nhắc đến đầu tiên khi nói về ẩm thực xứ Thanh. Nem được làm từ thịt lợn tươi, bì thái sợi, thính gạo, tỏi, ớt và tiêu, gói kín trong lá rồi để lên men tự nhiên trong vài ngày cho đến khi có vị chua dịu.\n\nNem ăn trực tiếp cùng lá ổi hoặc lá đinh lăng, chấm tương ớt, hoặc chiên giòn như một món nhắm. Du khách thường mua nem làm quà; nên chọn cơ sở uy tín và bảo quản lạnh khi mang đi xa.",
+        "en": "Nem chua is among the first specialties mentioned when talking about Thanh Hoa cuisine. It is made from fresh pork, shredded pork skin, rice powder, garlic, chilli and pepper, wrapped tightly in leaves and fermented naturally for a few days until gently sour.\n\nIt is eaten as is with guava or ming aralia leaves and chilli sauce, or deep-fried as a snack. Visitors often buy it as a gift; choose a reputable maker and keep it chilled when travelling.",
+        "ja": "ネムチュアはタインホアの食文化を語る上で真っ先に名前が挙がる名物料理です。新鮮な豚肉、細切りの豚皮、炒り米粉、ニンニク、唐辛子、胡椒を葉で包んで数日間自然発酵させ、まろやかな酸味を引き出します。\n\nグアバの葉やディンランの葉を添えてチリソースにつけて食べるほか、揚げても絶品です。お土産にする際は信頼できるお店で購入し、冷蔵保存をおすすめします。",
+        "ko": "넴쭈어는 타인호아 미식을 이야기할 때 가장 먼저 떠오르는 특산물입니다. 신선한 돼지고기, 채 썬 돼지껍질, 볶은 쌀가루, 마늘, 고추, 후추를 잎으로 단단히 싸서 며칠간 자연 발효시켜 은은한 산미를 냅니다.\n\n구아바 잎이나 딘랑 잎과 함께 칠리소스에 찍어 먹거나 바삭하게 튀겨 먹기도 합니다. 선물용으로 구매할 때는 믿을 수 있는 곳에서 사고 냉장 보관하는 것이 좋습니다.",
+        "zh": "清化酸肉卷是提及清化美食时最常被念起的地道特产。选用新鲜猪肉、猪皮丝、炒米粉、蒜、辣椒与胡椒，用树叶包裹自然发酵数日，散发出柔和的酸香。\n\n可直接搭配番石榴叶或南洋参叶蘸辣椒酱食用，也可油炸成香脆小吃。作为伴手礼购买时建议选择信誉良好的店家并注意冷藏保存。",
+        "fr": "Le nem chua est la première spécialité évoquée lorsqu'on parle de la gastronomie de Thanh Hoa. Préparé avec du porc frais, de la couenne émincée, de la poudre de riz grillé, de l'ail, du piment et du poivre, il fermente naturellement dans des feuilles pendant quelques jours.\n\nIl se déguste nature avec des feuilles de goyavier et de la sauce pimentée, ou frit. Pour le rapporter en cadeau, choisissez un producteur reconnu et conservez-le au frais."
+      },
+      "address": {
+        "vi": "Thành phố Thanh Hóa và các cơ sở sản xuất trên toàn tỉnh",
+        "en": "Thanh Hoa City and producers across the province",
+        "ja": "タインホア市および省内各地の専門店",
+        "ko": "타인호아시 및 타인호아성 전역의 전문 생산지",
+        "zh": "清化市及清化省各地传统作坊与特产店",
+        "fr": "Ville de Thanh Hoa et producteurs de toute la province"
+      },
+      "highlights": {
+        "vi": [
+          "Vị chua dịu, cay thơm, dai giòn",
+          "Ăn kèm lá ổi hoặc lá đinh lăng, chấm tương ớt",
+          "Có thể chiên giòn",
+          "Quà đặc sản phổ biến, nên bảo quản lạnh"
+        ],
+        "en": [
+          "Gently sour, spicy and chewy",
+          "Served with guava or ming aralia leaves and chilli sauce",
+          "Also delicious deep-fried",
+          "A popular gift; keep it chilled"
+        ],
+        "ja": [
+          "ほどよい酸味と香辛料、弾力ある食感",
+          "グアバの葉とチリソースで味わう定番スタイル",
+          "油で揚げても香ばしく美味",
+          "人気のお土産（要冷蔵）"
+        ],
+        "ko": [
+          "은은한 산미, 향긋한 매콤함과 쫄깃한 식감",
+          "향채와 칠리소스를 곁들여 먹는 별미",
+          "바삭하게 튀겨 먹어도 일품",
+          "인기 특산물 선물 (냉장 보관 권장)"
+        ],
+        "zh": [
+          "微酸辛香、弹牙爽口",
+          "搭配番石榴叶与辣椒酱风味更佳",
+          "油炸食用同样香酥可口",
+          "人气伴手礼，远行需冷藏"
+        ],
+        "fr": [
+          "Saveur acidulée, épicée et texture ferme",
+          "Servi avec feuilles de goyavier et sauce pimentée",
+          "Délicieux aussi en version frite",
+          "Cadeau très apprécié, à garder au frais"
+        ]
+      },
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Nem_th%C3%ADnh_Thanh_H%C3%B3a.JPG?width=1600"
+      ],
+      "coordinates": {
+        "lat": 19.8067,
+        "lng": 105.7852
+      },
+      "updatedAt": "2026-11-11T00:00:00.000Z"
+    },
+    {
+      "slug": "banh-gai-tu-tru",
+      "category": "cuisine",
+      "featured": false,
+      "order": 6,
+      "name": {
+        "vi": "Bánh gai Tứ Trụ",
+        "en": "Tứ Trụ Gai Leaf Cake",
+        "ja": "トゥーチューのバインガイ",
+        "ko": "뜨쭈 바인가이 (모시잎 떡)",
+        "zh": "四柱苎麻叶饼",
+        "fr": "Gâteau aux feuilles de gai de Tứ Trụ"
+      },
+      "summary": {
+        "vi": "Chiếc bánh đen bóng thơm lá gai, nhân đậu xanh, dừa và mỡ, đặc sản của vùng Thọ Xuân.",
+        "en": "A glossy dark cake scented with gai leaf, filled with mung bean, coconut and pork fat, a specialty of Thọ Xuân.",
+        "ja": "艶やかな黒い生地にラガイの香り、緑豆・ココナッツ餡が詰まったトースアン地方の伝統菓子。",
+        "ko": "윤기 나는 검은 껍질에 은은한 잎 향과 녹두·코코넛 소가 어우러진 토쑤언 지역의 전통 떡입니다.",
+        "zh": "乌黑油亮的苎麻叶糯米皮包裹绿豆、椰丝与糖脂馅心，是寿春地区的传统名点。",
+        "fr": "Gâteau noir brillant parfumé aux feuilles de gai, garni de haricot mungo et de noix de coco, spécialité de Thọ Xuân."
+      },
+      "description": {
+        "vi": "Bánh gai Tứ Trụ là đặc sản nổi tiếng của vùng Thọ Xuân. Vỏ bánh làm từ bột nếp nhào với lá gai nấu nhuyễn nên có màu đen óng và hương thơm riêng; nhân gồm đậu xanh, dừa, mỡ và hạt tiêu, được gói trong lá chuối khô.\n\nBánh dẻo, ngọt thanh và béo nhẹ, thích hợp ăn kèm trà nóng. Đây là món quà quen thuộc của du khách khi đến Thanh Hóa, và có thể để được vài ngày ở nhiệt độ thường.",
+        "en": "Tứ Trụ gai leaf cake is a famous specialty of the Thọ Xuân area. The skin is made from glutinous rice dough mixed with cooked gai leaf, giving a glossy black colour and a distinctive aroma; the filling is mung bean, coconut, pork fat and pepper, wrapped in dried banana leaf.\n\nThe cake is soft, lightly sweet and a little rich, and pairs well with hot tea. It is a familiar gift for visitors to Thanh Hoa and keeps for a few days at room temperature.",
+        "ja": "トゥーチューのバインガイはトースアン地方を代表する伝統菓子です。もち米粉に茹でたラガイ（カラムシ）の葉を練り込んだ艶やかな黒い生地で、緑豆・ココナッツ・豚脂・胡椒の餡を包み、乾燥バナナの葉で蒸し上げます。\n\nもっちりとした食感と上品な甘さが特徴で、温かいお茶とよく合います。常温で数日日持ちするためお土産にも喜ばれます。",
+        "ko": "뜨쭈 바인가이는 토쑤언 지역의 유명한 전통 떡입니다. 찹쌀가루에 삶은 모시잎을 섞어 윤기 나는 검은 반죽을 만들고, 녹두·코코넛·돼지기름·후추로 만든 소를 넣어 말린 바나나 잎으로 감싸 쪄냅니다.\n\n쫀득하고 은은하게 달콤해 따뜻한 차와 잘 어울리며 상온에서 며칠간 보관할 수 있어 선물로 좋습니다.",
+        "zh": "四柱苎麻叶饼是寿春地区的著名传统糕点。外皮以糯米粉混合捣碎的苎麻叶制成，色泽乌黑油润、清香扑鼻；内馅融合绿豆沙、椰丝、糖冬瓜与胡椒，用干芭蕉叶包裹蒸熟。\n\n口感软糯清甜不腻，配热茶相得益彰，常温下可保存数日，是极具地方特色的伴手礼。",
+        "fr": "Le gâteau de Tứ Trụ est une spécialité renommée de Thọ Xuân. Sa pâte de riz gluant mêlée aux feuilles de gai cuites lui donne une couleur noire brillante et un parfum unique, renfermant une farce de haricot mungo, noix de coco et poivre enveloppée dans une feuille de bananier séchée.\n\nMoelleux et délicatement sucré, il accompagne parfaitement un thé chaud et se conserve quelques jours à température ambiante."
+      },
+      "address": {
+        "vi": "Tứ Trụ, vùng Thọ Xuân, tỉnh Thanh Hóa",
+        "en": "Tứ Trụ, Thọ Xuân area, Thanh Hoa Province",
+        "ja": "タインホア省トースアン地方トゥーチュー",
+        "ko": "베트남 타인호아성 토쑤언 지역 뜨쭈",
+        "zh": "清化省寿春地区四柱",
+        "fr": "Tứ Trụ, région de Thọ Xuân, province de Thanh Hoa"
+      },
+      "highlights": {
+        "vi": [
+          "Vỏ bánh từ lá gai, màu đen óng, thơm đặc trưng",
+          "Nhân đậu xanh, dừa, mỡ, hạt tiêu",
+          "Dẻo, ngọt thanh, ăn kèm trà nóng",
+          "Quà biếu quen thuộc"
+        ],
+        "en": [
+          "Gai leaf skin, glossy black with a unique aroma",
+          "Mung bean, coconut, pork fat and pepper filling",
+          "Soft and lightly sweet, great with hot tea",
+          "A familiar gift"
+        ],
+        "ja": [
+          "ラガイの葉が香る艶やかな黒い生地",
+          "緑豆・ココナッツ・胡椒のコクある餡",
+          "もっちり上品な甘さで熱いお茶に最適",
+          "タインホアの定番土産"
+        ],
+        "ko": [
+          "모시잎 특유의 향이 살아있는 검은 껍질",
+          "녹두·코코넛·후추의 조화로운 속재료",
+          "쫀득하고 담백해 따뜻한 차와 찰떡궁합",
+          "정겨운 타인호아 선물"
+        ],
+        "zh": [
+          "苎麻叶外皮乌黑发亮、清香独特",
+          "绿豆、椰丝与胡椒调制醇香内馅",
+          "软糯清甜，配热茶最佳",
+          "广受欢迎的传统伴手礼"
+        ],
+        "fr": [
+          "Pâte noire brillante parfumée aux feuilles de gai",
+          "Farce de haricot mungo, coco et poivre",
+          "Moelleux et peu sucré, idéal avec du thé chaud",
+          "Souvenir traditionnel incontournable"
+        ]
+      },
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Banh_gai_Tu_Tru_-_a_Vietnamese_traditional_dumpling_%282%29.JPG?width=1600"
+      ],
+      "coordinates": {
+        "lat": 19.917,
+        "lng": 105.49
+      },
+      "updatedAt": "2026-11-11T00:00:00.000Z"
+    },
+    {
+      "slug": "hai-san",
+      "category": "cuisine",
+      "featured": false,
+      "order": 7,
+      "name": {
+        "vi": "Hải sản biển Thanh Hóa",
+        "en": "Thanh Hoa Seafood",
+        "ja": "タインホアの海の幸",
+        "ko": "타인호아 해산물",
+        "zh": "清化海鲜",
+        "fr": "Fruits de mer de Thanh Hoa"
+      },
+      "summary": {
+        "vi": "Tôm, cua, ghẹ, mực, cá biển vừa đánh bắt, chế biến giản dị để giữ trọn vị ngọt tự nhiên.",
+        "en": "Shrimp, crab, swimming crab, squid and sea fish straight from the boats, cooked simply to keep their natural sweetness.",
+        "ja": "水揚げされたばかりのエビ、カニ、イカ、魚をシンプルな調理で素材本来の甘みを堪能。",
+        "ko": "갓 잡아 올린 새우, 게, 오징어, 생선을 담백하게 조리해 자연 그대로의 단맛을 살린 해산물 요리입니다.",
+        "zh": "刚捕捞上岸的鲜虾、螃蟹、鱿鱼与海鱼，以简朴手法烹调，尽显天然鲜甜。",
+        "fr": "Crevettes, crabes, calamars et poissons tout juste pêchés, préparés simplement pour préserver leur douceur naturelle."
+      },
+      "description": {
+        "vi": "Dải bờ biển Thanh Hóa có nhiều làng chài và bến cá, nổi bật là khu vực Sầm Sơn và Hậu Lộc. Hải sản ở đây gồm tôm, cua, ghẹ, mực, ngao, sò và nhiều loại cá biển, thường được hấp, luộc hoặc nướng để giữ vị ngọt tự nhiên.\n\nDu khách có thể mua trực tiếp ở bến thuyền buổi sáng sớm rồi nhờ quán chế biến, hoặc ăn tại các nhà hàng ven biển. Nên hỏi giá trước khi gọi món và cân nhắc mua tại nơi có niêm yết rõ ràng.",
+        "en": "The Thanh Hoa coastline has many fishing villages and harbours, notably around Sầm Sơn and Hậu Lộc. Seafood here includes shrimp, crab, swimming crab, squid, clams and many sea fish, usually steamed, boiled or grilled to preserve their natural sweetness.\n\nVisitors can buy straight from the harbour in the early morning and ask a restaurant to cook it, or eat at seaside restaurants. Ask for prices first and prefer places with clearly posted prices.",
+        "ja": "タインホアの長い海岸線にはサムソンやハウロックを中心に多くの漁村や漁港があります。エビ、ワタリガニ、イカ、貝類、新鮮な海魚などが豊富で、蒸し料理や炭火焼きなど素材の味を活かす調理法が定番です。\n\n早朝に漁港で直接買って食堂で調理してもらうこともできます。注文前に価格を確認し、明朗会計のお店を選ぶのがおすすめです。",
+        "ko": "타인호아 해안에는 삼선과 허우록을 비롯해 여러 어촌과 포구가 자리합니다. 새우, 꽃게, 오징어, 조개류와 다양한 바다 생선을 찜이나 구이로 담백하게 조리해 재료 본연의 단맛을 즐깁니다.\n\n이른 아침 포구에서 직접 구입해 식당에 조리를 맡기거나 해변 식당에서 맛볼 수 있으며, 주문 전 가격을 확인하는 것이 좋습니다.",
+        "zh": "清化海岸线分布着众多渔村与渔港，以岑山与后禄尤为知名。当地盛产海虾、梭子蟹、鱿鱼、贝类及各类海鱼，常以清蒸、白灼或炭烤锁住天然鲜甜。\n\n游客既可在清晨到渔港直购后请餐馆加工，也可在海滨餐厅品尝。点餐前建议先确认价格并选择明码标价的店家。",
+        "fr": "Le littoral de Thanh Hoa compte de nombreux villages de pêcheurs, notamment autour de Sầm Sơn et Hậu Lộc. Crevettes, crabes, calamars, coquillages et poissons y sont généralement cuits à la vapeur ou grillés pour garder toute leur fraîcheur.\n\nOn peut acheter directement au port tôt le matin ou déjeuner face à la mer. Pensez à vérifier les tarifs affichés avant de commander."
+      },
+      "address": {
+        "vi": "Bến thuyền Sầm Sơn, các làng chài ven biển Hậu Lộc và Thanh Hóa",
+        "en": "Sầm Sơn harbour and fishing villages along the Hậu Lộc and Thanh Hoa coast",
+        "ja": "サムソン漁港およびハウロック・タインホア沿岸の漁村",
+        "ko": "삼선 어항 및 허우록·타인호아 해안 어촌 마을",
+        "zh": "岑山渔港及后禄、清化沿海渔村",
+        "fr": "Port de Sầm Sơn et villages côtiers de Hậu Lộc et Thanh Hoa"
+      },
+      "highlights": {
+        "vi": [
+          "Hải sản tươi, chế biến đơn giản",
+          "Mua tại bến thuyền buổi sáng sớm",
+          "Tôm, cua, ghẹ, mực, ngao, sò, cá biển",
+          "Hỏi giá và chọn nơi niêm yết rõ ràng"
+        ],
+        "en": [
+          "Fresh seafood cooked simply",
+          "Buy at the harbour in the early morning",
+          "Shrimp, crab, swimming crab, squid, clams and sea fish",
+          "Ask for prices and choose places that post them"
+        ],
+        "ja": [
+          "新鮮な海の幸をシンプルな調理で",
+          "早朝の漁港での直接購入体験",
+          "エビ・カニ・イカ・貝・鮮魚が豊富",
+          "価格表示の明確なお店選びが安心"
+        ],
+        "ko": [
+          "신선한 해산물의 담백한 조리",
+          "이른 아침 어항 직거래 체험",
+          "새우·꽃게·오징어·조개·생선 총집합",
+          "가격표가 명확한 식당 선택 권장"
+        ],
+        "zh": [
+          "海产鲜活，做法保留原汁原味",
+          "清晨渔港直购的新鲜体验",
+          "虾、蟹、鱿鱼、贝类与海鱼丰富",
+          "建议选择明码标价的餐馆"
+        ],
+        "fr": [
+          "Fruits de mer frais préparés simplement",
+          "Achat matinal au port de pêche",
+          "Crevettes, crabes, calamars, coquillages et poissons",
+          "Privilégiez les établissements aux prix affichés"
+        ]
+      },
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Hai_san_Hau_Loc05.JPG?width=1600",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Ng%C6%B0_L%E1%BB%99c.JPG?width=1600"
+      ],
+      "coordinates": {
+        "lat": 19.74,
+        "lng": 105.9
+      },
+      "updatedAt": "2026-11-11T00:00:00.000Z"
+    },
+    {
+      "slug": "thanh-nha-ho",
+      "category": "culture",
+      "featured": true,
+      "order": 8,
+      "name": {
+        "vi": "Thành Nhà Hồ",
+        "en": "Ho Dynasty Citadel",
+        "ja": "胡朝城塞（タンニャーホー）",
+        "ko": "호 왕조 성채",
+        "zh": "胡朝城堡",
+        "fr": "Citadelle de la dynastie Hồ"
+      },
+      "summary": {
+        "vi": "Di sản văn hóa thế giới UNESCO, tòa thành đá độc đáo xây năm 1397 dưới triều Hồ Quý Ly.",
+        "en": "A UNESCO World Heritage Site, a remarkable stone citadel built in 1397 under Hồ Quý Ly.",
+        "ja": "ユネスコ世界文化遺産。1397年に胡季犛のもと巨大な切石を組み上げて築かれた類まれな石造城塞。",
+        "ko": "유네스코 세계문화유산으로, 1397년 호뀌리 왕조 시절 거대한 돌을 정교하게 쌓아 올린 독창적인 석조 성채입니다.",
+        "zh": "联合国教科文组织世界文化遗产，建于1397年胡季犛时期，以巨石严丝合缝砌筑而闻名。",
+        "fr": "Site inscrit au patrimoine mondial de l'UNESCO, remarquable citadelle en pierre bâtie en 1397 sous Hồ Quý Ly."
+      },
+      "description": {
+        "vi": "Thành Nhà Hồ, còn gọi là thành Tây Đô, được xây dựng năm 1397 dưới thời Hồ Quý Ly. Tòa thành nổi tiếng với những bức tường xây bằng các khối đá lớn ghép khít, có khối nặng hàng chục tấn, thể hiện kỹ thuật xây dựng và tổ chức lao động đáng kinh ngạc của người Việt thời bấy giờ.\n\nNăm 2011, Thành Nhà Hồ được UNESCO ghi danh là Di sản văn hóa thế giới. Du khách có thể đi dạo qua cổng Nam cùng các cổng còn lại, tham quan đàn tế Nam Giao gần đó và tìm hiểu về một giai đoạn lịch sử quan trọng đầu thế kỷ XV.",
+        "en": "The Ho Dynasty Citadel, also known as Tây Đô, was built in 1397 under Hồ Quý Ly. It is famed for walls of huge, tightly fitted stone blocks, some weighing tens of tonnes, showing remarkable construction skill and labour organisation for its time.\n\nIn 2011 UNESCO inscribed it as a World Heritage Site. Visitors can stroll through the South Gate and the other gates, see the nearby Nam Giao Altar and learn about an important chapter of early 15th-century history.",
+        "ja": "胡朝城塞（別名・西都城）は1397年に胡季犛の命で築かれました。数十トンにも達する巨大な石材を漆喰なしで緻密に積み上げた城壁は、当時の高度な建築技術と組織力を今に伝えています。\n\n2011年にユネスコ世界文化遺産に登録されました。壮大な南門や残存する城門を巡り、近隣の南郊壇と合わせて15世紀初頭の歴史を体感できます。",
+        "ko": "서도성(Tây Đô)으로도 불리는 호 왕조 성채는 1397년 호뀌리에 의해 건설되었습니다. 수십 톤에 달하는 거대한 돌을 빈틈없이 맞물려 쌓은 성벽은 당시 베트남의 놀라운 건축 기술과 조직력을 보여줍니다.\n\n2011년 유네스코 세계문화유산으로 등재되었으며, 웅장한 남문과 인근 남교 제단을 둘러보며 15세기 초의 역사를 만날 수 있습니다.",
+        "zh": "胡朝城堡又称西都城，始建于1397年胡季犛时期。城墙由重达数十吨的巨型石块严密垒砌而成，展现了当时令人惊叹的建筑工艺与组织能力。\n\n2011年被联合国教科文组织列入《世界遗产名录》。游客可漫步于宏伟的南门及周边城门，并顺道参观南郊坛，感受15世纪初的历史风云。",
+        "fr": "Également appelée Tây Đô, la citadelle de la dynastie Hồ fut érigée en 1397 sous Hồ Quý Ly. Ses remparts composés d'immenses blocs de pierre parfaitement ajustés, certains pesant plusieurs dizaines de tonnes, témoignent d'un savoir-faire remarquable.\n\nInscrite au patrimoine mondial de l'UNESCO en 2011, elle invite à découvrir sa monumentale porte Sud et l'autel voisin de Nam Giao."
+      },
+      "address": {
+        "vi": "Xã Vĩnh Long và Vĩnh Tiến, huyện Vĩnh Lộc, tỉnh Thanh Hóa",
+        "en": "Vĩnh Long and Vĩnh Tiến communes, Vĩnh Lộc District, Thanh Hoa Province",
+        "ja": "タインホア省ヴィンロック郡ヴィンロン社・ヴィンティエン社",
+        "ko": "베트남 타인호아성 빈록현 빈롱면 및 빈띠엔면",
+        "zh": "清化省永禄县永隆社与永进社",
+        "fr": "Communes de Vĩnh Long et Vĩnh Tiến, district de Vĩnh Lộc, province de Thanh Hoa"
+      },
+      "highlights": {
+        "vi": [
+          "Di sản văn hóa thế giới UNESCO năm 2011",
+          "Tường thành xây bằng khối đá lớn ghép khít",
+          "Cổng Nam đồ sộ và đàn tế Nam Giao",
+          "Chứng tích của triều Hồ đầu thế kỷ XV"
+        ],
+        "en": [
+          "UNESCO World Heritage Site since 2011",
+          "Walls of huge, tightly fitted stone blocks",
+          "The imposing South Gate and the Nam Giao Altar",
+          "A witness to the Hồ Dynasty of the early 15th century"
+        ],
+        "ja": [
+          "2011年ユネスコ世界文化遺産登録",
+          "巨大石材を緻密に組み上げた城壁",
+          "壮大な南門と南郊壇",
+          "15世紀初頭の胡朝の歴史を伝える遺跡"
+        ],
+        "ko": [
+          "2011년 유네스코 세계문화유산 등재",
+          "거대한 돌을 정교하게 쌓은 석조 성벽",
+          "웅장한 남문과 남교 제단",
+          "15세기 초 호 왕조의 생생한 흔적"
+        ],
+        "zh": [
+          "2011年入选联合国教科文组织世界文化遗产",
+          "巨石严丝合缝垒砌的城墙奇观",
+          "宏伟的南门与南郊坛遗址",
+          "15世纪初胡朝历史的珍贵见证"
+        ],
+        "fr": [
+          "Patrimoine mondial de l'UNESCO depuis 2011",
+          "Murailles de blocs de pierre monumentaux",
+          "Imposante porte Sud et autel Nam Giao",
+          "Témoignage majeur de la dynastie Hồ"
+        ]
+      },
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Ho_dynasty's_citadel%2C_Vietnam.jpg?width=1600",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Tay_Do_castle_South_gate.JPG?width=1600"
+      ],
+      "coordinates": {
+        "lat": 20.075,
+        "lng": 105.6
+      },
+      "updatedAt": "2026-11-11T00:00:00.000Z"
+    },
+    {
+      "slug": "lam-kinh",
+      "category": "culture",
+      "featured": false,
+      "order": 9,
+      "name": {
+        "vi": "Khu di tích Lam Kinh",
+        "en": "Lam Kinh Relic Site",
+        "ja": "ラムキン歴史遺跡群",
+        "ko": "람킨 역사 유적지",
+        "zh": "蓝京历史遗址",
+        "fr": "Site historique de Lam Kinh"
+      },
+      "summary": {
+        "vi": "Quê hương của vua Lê Thái Tổ và khu lăng miếu của vương triều Hậu Lê, gắn với khởi nghĩa Lam Sơn.",
+        "en": "The homeland of Emperor Lê Thái Tổ and the royal tomb complex of the Later Lê dynasty, tied to the Lam Sơn uprising.",
+        "ja": "黎太祖（レ・ロイ）の故郷であり、ラムソン蜂起ゆかりの後黎朝の王陵・宮殿遺跡。",
+        "ko": "레 타이 또 황제의 고향이자 람선 봉기의 발상지, 후레 왕조의 왕릉과 궁궐 유적지입니다.",
+        "zh": "黎太祖黎利的故乡与蓝山起义发源地，也是后黎朝帝王陵寝与行宫遗址群。",
+        "fr": "Terre natale de l'empereur Lê Thái Tổ et nécropole royale de la dynastie des Lê postérieurs, liée à l'insurrection de Lam Sơn."
+      },
+      "description": {
+        "vi": "Lam Kinh thuộc vùng Lam Sơn, Thọ Xuân, là nơi Lê Lợi dấy binh khởi nghĩa chống quân Minh và sau đó trở thành khu lăng miếu của các vua, hoàng hậu triều Hậu Lê. Khu di tích gồm nền điện, các lăng tẩm cùng nhiều tượng đá và bia đá.\n\nNổi bật là bia Vĩnh Lăng, ghi lại công lao của Lê Thái Tổ, có phần văn bia do Nguyễn Trãi soạn. Lễ hội Lam Kinh được tổ chức vào tháng 8 âm lịch để tưởng nhớ vị vua anh hùng, thu hút đông đảo người dân và du khách.",
+        "en": "Lam Kinh lies in the Lam Sơn area of Thọ Xuân, where Lê Lợi launched the uprising against the Ming army and which later became the tomb complex of the kings and queens of the Later Lê dynasty. The site includes palace foundations, tombs and many stone statues and steles.\n\nThe Vĩnh Lăng stele, recording the deeds of Lê Thái Tổ, is a highlight, with an inscription composed by Nguyễn Trãi. The Lam Kinh Festival, held in the eighth lunar month, honours the heroic emperor and draws many locals and visitors.",
+        "ja": "トースアン地方ラムソンに位置するラムキンは、黎利が明軍に対する蜂起を起こした地であり、のちに後黎朝の歴代皇帝・皇后の陵墓や殿閣が築かれました。\n\nなかでも阮廌が碑文を記し黎太祖の功績を讃える「永陵碑」が見どころです。旧暦8月にはラムキン祭が開かれ、多くの参拝客で賑わいます。",
+        "ko": "토쑤언 람선 지역에 자리한 람킨은 레 러이가 명나라에 맞서 봉기를 일으킨 곳이자 이후 후레 왕조 역대 왕과 왕후의 능묘가 조성된 성지입니다.\n\n응우옌 짜이가 비문을 지은 빈랑비가 대표적인 유물이며, 음력 8월마다 열리는 람킨 축제에는 수많은 방문객이 찾아옵니다.",
+        "zh": "蓝京位于寿春蓝山地区，是黎利发动抗明起义的发祥地，后来成为后黎朝历代帝后的陵寝与行宫所在。遗址内保存着殿基、皇陵及众多石像与石碑。\n\n其中由阮廌撰文的永陵碑最为著名，记载了黎太祖的丰功伟绩。每年农历八月举办的蓝京庙会吸引众多民众与游客前来缅怀。",
+        "fr": "Situé à Lam Sơn dans le district de Thọ Xuân, Lam Kinh est le berceau de l'insurrection menée par Lê Lợi et devint ensuite le complexe funéraire des souverains de la dynastie des Lê postérieurs.\n\nLa stèle de Vĩnh Lăng, dont l'inscription fut rédigée par Nguyễn Trãi, constitue un joyau du site. Le festival de Lam Kinh s'y tient au huitième mois lunaire."
+      },
+      "address": {
+        "vi": "Xã Xuân Lam và Lam Sơn, huyện Thọ Xuân, tỉnh Thanh Hóa",
+        "en": "Xuân Lam and Lam Sơn area, Thọ Xuân District, Thanh Hoa Province",
+        "ja": "タインホア省トースアン郡スアンラム社・ラムソン地区",
+        "ko": "베트남 타인호아성 토쑤언현 쑤언람면 및 람선 일대",
+        "zh": "清化省寿春县春蓝社与蓝山地区",
+        "fr": "Secteur de Xuân Lam et Lam Sơn, district de Thọ Xuân, province de Thanh Hoa"
+      },
+      "highlights": {
+        "vi": [
+          "Nơi khởi nguồn khởi nghĩa Lam Sơn",
+          "Lăng tẩm các vua Hậu Lê",
+          "Bia Vĩnh Lăng với văn bia của Nguyễn Trãi",
+          "Lễ hội Lam Kinh tháng 8 âm lịch"
+        ],
+        "en": [
+          "The birthplace of the Lam Sơn uprising",
+          "Royal tombs of the Later Lê dynasty",
+          "The Vĩnh Lăng stele with an inscription by Nguyễn Trãi",
+          "The Lam Kinh Festival in the eighth lunar month"
+        ],
+        "ja": [
+          "ラムソン蜂起の発祥地",
+          "後黎朝歴代皇帝の陵墓群",
+          "阮廌撰文の永陵碑",
+          "旧暦8月のラムキン祭"
+        ],
+        "ko": [
+          "람선 봉기의 발상지",
+          "후레 왕조 역대 왕릉군",
+          "응우옌 짜이가 지은 빈랑비",
+          "음력 8월 람킨 전통 축제"
+        ],
+        "zh": [
+          "蓝山起义的发源地",
+          "后黎朝历代帝王陵寝群",
+          "阮廌撰文的著名永陵碑",
+          "农历八月盛大的蓝京庙会"
+        ],
+        "fr": [
+          "Berceau de l'insurrection de Lam Sơn",
+          "Tombeaux royaux des Lê postérieurs",
+          "Stèle de Vĩnh Lăng rédigée par Nguyễn Trãi",
+          "Festival de Lam Kinh au 8e mois lunaire"
+        ]
+      },
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Bia_Vinh_Lang.JPG?width=1600"
+      ],
+      "coordinates": {
+        "lat": 19.915,
+        "lng": 105.3
+      },
+      "updatedAt": "2026-11-11T00:00:00.000Z"
+    },
+    {
+      "slug": "dong-son",
+      "category": "culture",
+      "featured": false,
+      "order": 10,
+      "name": {
+        "vi": "Văn hóa Đông Sơn",
+        "en": "Đông Sơn Culture",
+        "ja": "ドンソン文化",
+        "ko": "동선 문화",
+        "zh": "东山文化",
+        "fr": "Culture de Đông Sơn"
+      },
+      "summary": {
+        "vi": "Nền văn hóa đồng thau rực rỡ của người Việt cổ, nổi tiếng với trống đồng Đông Sơn.",
+        "en": "The brilliant Bronze Age culture of the ancient Vietnamese, best known for the Đông Sơn bronze drums.",
+        "ja": "精巧な文様のドンソン銅鼓で世界的に知られる、古代ベトナムの輝かしい青銅器文化。",
+        "ko": "정교한 문양의 동선 청동북으로 잘 알려진 고대 베트남의 찬란한 청동기 문화입니다.",
+        "zh": "古代越人灿烂辉煌的青铜时代文明，以纹饰精美的东山铜鼓闻名于世。",
+        "fr": "Brillante civilisation vietnamienne de l'âge du bronze, mondialement célèbre pour ses tambours de bronze Đông Sơn."
+      },
+      "description": {
+        "vi": "Văn hóa Đông Sơn là nền văn hóa thời đại đồng thau của người Việt cổ, phát triển rực rỡ từ khoảng thế kỷ VII trước Công nguyên đến những thế kỷ đầu Công nguyên. Tên gọi xuất phát từ di chỉ Đông Sơn bên bờ sông Mã, nơi các hiện vật đầu tiên được phát hiện vào năm 1924.\n\nTrống đồng Đông Sơn là biểu tượng nổi bật nhất của nền văn hóa này, với hoa văn tinh xảo mô tả đời sống, lễ hội và tín ngưỡng của cư dân thời đó. Du khách quan tâm lịch sử có thể tìm hiểu thêm qua các hiện vật và bảo tàng ở Thanh Hóa và Hà Nội.",
+        "en": "Đông Sơn culture is the Bronze Age culture of the ancient Vietnamese, flourishing from around the 7th century BC into the first centuries AD. It takes its name from the Đông Sơn site on the bank of the Mã River, where the first artefacts were discovered in 1924.\n\nThe Đông Sơn bronze drum is its most iconic symbol, decorated with finely worked patterns depicting the daily life, festivals and beliefs of its people. History-minded visitors can learn more through artefacts and museums in Thanh Hoa and Hanoi.",
+        "ja": "ドンソン文化は紀元前7世紀頃から紀元後数世紀にかけて栄えた古代ベトナムの青銅器文化です。1924年にマー川沿いのドンソン村で最初の遺物が発見されたことに由来します。\n\n当時の暮らしや祭礼、信仰を繊細に刻んだドンソン銅鼓はこの文化の象徴であり、タインホアやハノイの博物館でその貴重な遺物を見学できます。",
+        "ko": "동선 문화는 기원전 7세기경부터 서기 초까지 번성한 고대 베트남의 청동기 문화입니다. 1924년 마강 변 동선 마을에서 최초의 유물이 발견되면서 이름이 붙었습니다.\n\n당시 사람들의 삶과 축제를 정교하게 새긴 동선 청동북이 가장 대표적인 상징이며, 타인호아와 하노이의 박물관에서 관련 유물을 만날 수 있습니다.",
+        "zh": "东山文化是约公元前7世纪至公元初繁荣发展的古代越人青铜文明，因1924年在马江畔东山村首次出土文物而得名。\n\n东山铜鼓是该文化最具代表性的象征，鼓面精细雕刻着先民的生活、节庆与信仰场景。历史爱好者可在清化及河内的博物馆欣赏珍贵文物。",
+        "fr": "La culture de Đông Sơn est la civilisation de l'âge du bronze qui rayonna du VIIe siècle av. J.-C. aux premiers siècles de notre ère. Elle tire son nom du village de Đông Sơn, sur les rives du fleuve Mã, où les premiers vestiges furent découverts en 1924.\n\nLes tambours de bronze, ornés de scènes finement gravées de la vie quotidienne et des fêtes, en sont le symbole le plus emblématique."
+      },
+      "address": {
+        "vi": "Làng Đông Sơn, bên sông Mã, thành phố Thanh Hóa",
+        "en": "Đông Sơn village, beside the Mã River, Thanh Hoa City",
+        "ja": "タインホア市マー川沿い・ドンソン村",
+        "ko": "베트남 타인호아시 마강 변 동선 마을",
+        "zh": "清化市马江畔东山村",
+        "fr": "Village de Đông Sơn, au bord du fleuve Mã, ville de Thanh Hoa"
+      },
+      "highlights": {
+        "vi": [
+          "Nền văn hóa đồng thau của người Việt cổ",
+          "Trống đồng Đông Sơn với hoa văn tinh xảo",
+          "Di chỉ đầu tiên được phát hiện năm 1924 bên sông Mã",
+          "Hiện vật trưng bày tại các bảo tàng"
+        ],
+        "en": [
+          "The Bronze Age culture of the ancient Vietnamese",
+          "Bronze drums with finely worked patterns",
+          "First site discovered in 1924 beside the Mã River",
+          "Artefacts displayed in museums"
+        ],
+        "ja": [
+          "古代ベトナムの青銅器文明",
+          "精巧な文様が刻まれたドンソン銅鼓",
+          "1924年マー川沿いで初発見された遺跡",
+          "各地の博物館で貴重な遺物を展示"
+        ],
+        "ko": [
+          "고대 베트남의 찬란한 청동기 문화",
+          "정교한 문양의 동선 청동북",
+          "1924년 마강 변에서 최초 발견된 유적",
+          "박물관에 전시된 귀중한 유물"
+        ],
+        "zh": [
+          "古代越人辉煌的青铜文明",
+          "纹饰精美的东山铜鼓",
+          "1924年于马江畔首次发掘的遗址",
+          "各大博物馆珍藏展示出土文物"
+        ],
+        "fr": [
+          "Civilisation vietnamienne de l'âge du bronze",
+          "Tambours de bronze aux motifs ciselés",
+          "Premier site découvert en 1924 près du fleuve Mã",
+          "Pièces exposées dans les musées"
+        ]
+      },
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Dong_Son_bronze_drum.JPG?width=1600",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Dong_Son_Bronze_Drum_18.jpg?width=1600"
+      ],
+      "coordinates": {
+        "lat": 19.819,
+        "lng": 105.82
+      },
+      "updatedAt": "2026-11-11T00:00:00.000Z"
+    },
+    {
+      "slug": "ham-rong",
+      "category": "culture",
+      "featured": false,
+      "order": 11,
+      "name": {
+        "vi": "Di tích Hàm Rồng",
+        "en": "Hàm Rồng Victory Site",
+        "ja": "ハムロン遺跡",
+        "ko": "함롱 역사 유적지",
+        "zh": "咸龙遗址",
+        "fr": "Site historique de Hàm Rồng"
+      },
+      "summary": {
+        "vi": "Cầu Hàm Rồng bắc qua sông Mã, biểu tượng của chiến thắng Hàm Rồng và quần thể danh thắng núi Rồng – núi Ngọc.",
+        "en": "Hàm Rồng Bridge across the Mã River, a symbol of the Hàm Rồng victory, beside the Rồng and Ngọc mountains.",
+        "ja": "マー川に架かる不屈の象徴ハムロン橋と、ロン山・ゴック山の景勝地が広がる歴史スポット。",
+        "ko": "마강을 가로지르는 불굴의 상징 함롱 다리와 롱산·응옥산의 절경이 어우러진 역사 명소입니다.",
+        "zh": "横跨马江的咸龙桥象征着不屈精神，周边龙山与玉山相伴，是兼具历史与风光的名胜。",
+        "fr": "Le pont Hàm Rồng sur le fleuve Mã, symbole de résilience, au cœur du site pittoresque des monts Rồng et Ngọc."
+      },
+      "description": {
+        "vi": "Hàm Rồng là địa danh lịch sử ngay cạnh thành phố Thanh Hóa, nơi cầu Hàm Rồng bắc qua sông Mã trở thành biểu tượng của ý chí kiên cường trong những năm kháng chiến chống Mỹ. Quanh khu vực là quần thể danh thắng gồm núi Rồng và núi Ngọc, nhìn xuống dòng sông Mã.\n\nDu khách có thể đi dạo trong khu di tích, tham quan các điểm tưởng niệm và ngắm cảnh sông núi. Vì nằm gần trung tâm thành phố nên đây là điểm dừng thuận tiện cho một buổi tham quan ngắn.",
+        "en": "Hàm Rồng is a historic site right beside Thanh Hoa City, where Hàm Rồng Bridge over the Mã River became a symbol of resilience during the war against the United States. The surrounding scenic area includes the Rồng and Ngọc mountains overlooking the river.\n\nVisitors can stroll through the site, see its memorials and enjoy views of the river and mountains. Being close to the city centre, it is a convenient stop for a short visit.",
+        "ja": "ハムロンはタインホア市街のすぐそばに位置する歴史的名所で、マー川に架かるハムロン橋は戦時下の不屈の精神の象徴として知られています。周囲にはマー川を見下ろすロン山とゴック山の景勝地が広がります。\n\n遺跡内を散策しながら慰霊碑や川と山の眺めを楽しめます。市街地から近いため短時間の立ち寄りにも便利です。",
+        "ko": "함롱은 타인호아 시내 바로 옆에 자리한 역사 유적지로, 마강을 가로지르는 함롱 다리는 전쟁 시기 불굴의 의지를 상징합니다. 주변에는 마강을 내려다보는 롱산과 응옥산의 아름다운 경관이 펼쳐집니다.\n\n유적지 내 기념 공간과 강산 풍경을 산책하며 감상할 수 있어 도심 근교의 가벼운 일정으로 알맞습니다.",
+        "zh": "咸龙紧邻清化市区，横跨马江的咸龙桥曾是抗战岁月中顽强意志的象征。周边环绕着俯瞰马江的龙山与玉山风景群。\n\n游客可漫步遗址区，瞻仰纪念碑并远眺壮丽的江山景色。因距离市中心很近，非常适合安排半日游览。",
+        "fr": "Situé tout près du centre de Thanh Hoa, Hàm Rồng est un haut lieu historique où le pont enjambant le fleuve Mã incarne la résilience. Le site est entouré des monts Rồng et Ngọc surplombant la rivière.\n\nOn y flâne volontiers entre mémoriaux et panoramas sur le fleuve, idéal pour une courte visite à proximité de la ville."
+      },
+      "address": {
+        "vi": "Bên sông Mã, gần trung tâm thành phố Thanh Hóa",
+        "en": "Beside the Mã River, near the centre of Thanh Hoa City",
+        "ja": "タインホア市中心部近く・マー川沿い",
+        "ko": "베트남 타인호아시 중심부 인근 마강 변",
+        "zh": "清化市中心附近马江畔",
+        "fr": "Au bord du fleuve Mã, près du centre de la ville de Thanh Hoa"
+      },
+      "highlights": {
+        "vi": [
+          "Cầu Hàm Rồng, biểu tượng của chiến thắng Hàm Rồng",
+          "Quần thể danh thắng núi Rồng – núi Ngọc",
+          "Cảnh sông Mã từ trên cao",
+          "Gần trung tâm, thuận tiện tham quan"
+        ],
+        "en": [
+          "Hàm Rồng Bridge, symbol of the Hàm Rồng victory",
+          "The Rồng and Ngọc mountain scenic area",
+          "Views over the Mã River",
+          "Close to the city centre"
+        ],
+        "ja": [
+          "不屈の象徴ハムロン橋",
+          "ロン山・ゴック山の景勝地",
+          "高台から望むマー川の風景",
+          "市街地から近くアクセス良好"
+        ],
+        "ko": [
+          "불굴의 상징 함롱 다리",
+          "롱산·응옥산 명승지",
+          "위에서 내려다보는 마강 풍경",
+          "도심과 가까워 편리한 접근성"
+        ],
+        "zh": [
+          "象征不屈精神的咸龙桥",
+          "龙山与玉山风景名胜群",
+          "登高俯瞰壮阔马江风光",
+          "毗邻市中心，交通便利"
+        ],
+        "fr": [
+          "Pont Hàm Rồng, symbole historique",
+          "Ensemble pittoresque des monts Rồng et Ngọc",
+          "Vues panoramiques sur le fleuve Mã",
+          "Accès facile depuis le centre-ville"
+        ]
+      },
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Ham_Rong_Bridge.jpg?width=1600",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Thanh_Hoa_bridge_Vietnam_1972.jpg?width=1600"
+      ],
+      "coordinates": {
+        "lat": 19.828,
+        "lng": 105.807
+      },
+      "updatedAt": "2026-11-11T00:00:00.000Z"
+    }
+  ]
+}
