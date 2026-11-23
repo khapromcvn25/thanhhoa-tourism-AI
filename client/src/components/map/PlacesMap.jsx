@@ -95,9 +95,9 @@ export default function PlacesMap({ places, selectedSlug }) {
         className="h-full w-full"
       >
         <TileLayer
-          attribution='&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions" target="_blank" rel="noopener noreferrer">CARTO</a>'
-          url="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png"
-          subdomains="abcd"
+          attribution="&copy; Google Maps"
+          url="https://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}&hl=vi"
+          subdomains={['mt0', 'mt1', 'mt2', 'mt3']}
           maxZoom={20}
         />
 
@@ -125,24 +125,4 @@ export default function PlacesMap({ places, selectedSlug }) {
                     className="h-32 w-full object-cover"
                   />
                   <div className="p-4">
-                    <span className="block text-[11px] font-semibold uppercase tracking-[0.16em] text-accent">
-                      {t(`nav.${place.category}`)}
-                    </span>
-                    <h3 className="mt-1 font-display text-lg font-semibold leading-snug">{name}</h3>
-                    <Link
-                      to={ROUTES.place(place.slug)}
-                      className="place-popup-link mt-3 inline-flex items-center gap-1.5 rounded-full bg-brand px-4 py-2 text-xs font-semibold no-underline"
-                    >
-                      {t('map.viewDetails')}
-                      <ArrowRight className="h-3.5 w-3.5" aria-hidden="true" />
-                    </Link>
-                  </div>
-                </div>
-              </Popup>
-            </Marker>
-          );
-        })}
-      </MapContainer>
-    </div>
-  );
-}
+                    <span className="block text-[11px] font-semibold
