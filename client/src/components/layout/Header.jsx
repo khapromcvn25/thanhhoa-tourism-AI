@@ -1,12 +1,13 @@
 import { useEffect, useState } from 'react';
 import { NavLink, useLocation } from 'react-router-dom';
-import { Heart, Menu, X } from 'lucide-react';
+import { Heart, Menu, MessageCircle, X } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 import Logo from '@/components/common/Logo';
 import LanguageToggle from '@/components/common/LanguageToggle';
 import ThemeToggle from '@/components/common/ThemeToggle';
 import { NAV_ITEMS } from '@/config/routes';
 import { useUserPlaces } from '@/context/UserPlacesContext';
+import { openChat } from '@/lib/chatBus';
 
 const desktopLinkClass = ({ isActive }) =>
   [
@@ -58,7 +59,7 @@ export default function Header() {
         scrolled || menuOpen ? 'bg-bg/90 shadow-sm' : 'border-transparent bg-bg/60'
       }`}
     >
-      <div className="container-page flex h-16 items-center justify-between gap-3 lg:h-20">
+      <div className="container-page flex h-16 items-center justify-between gap-2 lg:h-20 lg:gap-3">
         <Logo />
 
         <nav aria-label={t('header.mainNav')} className="hidden items-center gap-1 lg:flex">
@@ -69,7 +70,7 @@ export default function Header() {
           ))}
         </nav>
 
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-1.5 sm:gap-2">
           <button
             type="button"
             onClick={() => setDrawerOpen(true)}
@@ -84,8 +85,21 @@ export default function Header() {
               </span>
             )}
           </button>
+
           <LanguageToggle />
           <ThemeToggle />
+
+          <button
+            type="button"
+            onClick={() => openChat()}
+            aria-label="KAT AI"
+            title="KAT AI"
+            className="inline-flex h-10 items-center gap-1.5 rounded-full bg-brand px-3 text-xs font-semibold text-brand-fg shadow-sm transition hover:opacity-90 active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand"
+          >
+            <MessageCircle className="h-4 w-4 shrink-0" aria-hidden="true" />
+            <span>KAT</span>
+          </button>
+
           <button
             type="button"
             onClick={() => setMenuOpen((open) => !open)}
