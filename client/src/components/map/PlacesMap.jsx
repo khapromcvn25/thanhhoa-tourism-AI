@@ -83,11 +83,12 @@ export default function PlacesMap({ places, selectedSlug }) {
   );
 
   return (
-    <div
-      role="region"
-      aria-label={t('map.ariaMap')}
-      className="relative isolate z-0 h-[68vh] min-h-[440px] w-full"
-    >
+<TileLayer
+          attribution='&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions" target="_blank" rel="noopener noreferrer">CARTO</a>'
+          url="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png"
+          subdomains="abcd"
+          maxZoom={20}
+        />
       <MapContainer
         center={DEFAULT_CENTER}
         zoom={DEFAULT_ZOOM}
