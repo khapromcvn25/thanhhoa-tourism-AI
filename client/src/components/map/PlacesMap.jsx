@@ -86,4 +86,63 @@ export default function PlacesMap({ places, selectedSlug }) {
     <div
       role="region"
       aria-label={t('map.ariaMap')}
-      className="relative isolate z-0 h-[68vh
+      className="relative isolate z-0 h-[68vh] min-h-[440px] w-full"
+    >
+      <MapContainer
+        center={DEFAULT_CENTER}
+        zoom={DEFAULT_ZOOM}
+        scrollWheelZoom
+        className="h-full w-full"
+      >
+        <TileLayer
+          attribution='&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions" target="_blank" rel="noopener noreferrer">CARTO</a>'
+          url="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png"
+          subdomains="abcd"
+          maxZoom={20}
+        />
+
+        <MapController places={located} selectedSlug={selectedSlug} markerRefs={markerRefs} />
+
+        {located.map((place) => {
+          const name = l(place.name);
+          return (
+            <Marker
+              key={place.slug}
+              position={[place.coordinates.lat, place.coordinates.lng]}
+              icon={pinIcon(place.category)}
+              title={name}
+              ref={(marker) => {
+                if (marker) markerRefs.current[place.slug] = marker;
+                else delete markerRefs.current[place.slug];
+              }}
+            >
+              <Popup className="place-popup" minWidth={230} maxWidth={260} closeButton>
+                <div className="w-[230px]">
+                  <SafeImage
+                    src={place.images?.[0]}
+                    alt={name}
+                    width={500}
+                    className="h-32 w-full object-cover"
+                  />
+                  <div className="p-4">
+                    <span className="block text-[11px] font-semibold uppercase tracking-[0.16em] text-accent">
+                      {t(`nav.${place.category}`)}
+                    </span>
+                    <h3 className="mt-1 font-display text-lg font-semibold leading-snug">{name}</h3>
+                    <Link
+                      to={ROUTES.place(place.slug)}
+                      className="place-popup-link mt-3 inline-flex items-center gap-1.5 rounded-full bg-brand px-4 py-2 text-xs font-semibold no-underline"
+                    >
+                      {t('map.viewDetails')}
+                      <ArrowRight className="h-3.5 w-3.5" aria-hidden="true" />
+                    </Link>
+                  </div>
+                </div>
+              </Popup>
+            </Marker>
+          );
+        })}
+      </MapContainer>
+    </div>
+  );
+}
